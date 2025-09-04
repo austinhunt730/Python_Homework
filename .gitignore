@@ -1,0 +1,14 @@
+# data & outputs
+*.csv
+data/**
+charts/**
+!data/user_data/
+!data/purchase_data/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# env files
+.env

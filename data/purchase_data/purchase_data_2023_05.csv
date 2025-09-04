@@ -1,0 +1,515 @@
+transaction_id,user_email,product_name,product_category,quantity,unit_price,discount_percent,discount_amount,shipping_cost,total_price,purchase_date,purchase_time,payment_method,purchase_status,month,year
+ACW437UPJ664,paulvontim@outlook.com,trampoline accessories,toys,1,13.68,0,0.0,11.67,25.35,05/26/2023,10:45:03,paypal,completed,5,2023
+SZL2IZ8NYJZV,yassam@yahoo.com,romance novel,books,1,89.06,0,0.0,0,89.06,05/24/2023,18:02:30,paypal,completed,5,2023
+NFL9XONKOJIL,yassam@yahoo.com,home security system,electronics,1,3721.38,10,372.14,0,3349.24,05/17/2023,13:18:41,credit_card,completed,5,2023
+V9A5YX7JSHWF,yassam@yahoo.com,remote control car,toys,1,238.2,0,0.0,0,238.2,05/08/2023,19:53:32,credit_card,completed,5,2023
+M4T78WD9MM7D,yassam@yahoo.com,elliptical machine,sports_equipment,1,1524.95,20,304.99,0,1219.96,05/06/2023,11:05:57,credit_card,completed,5,2023
+3Z0TLAF4TT6W,yassam@yahoo.com,boxing gloves,sports_equipment,1,1350.33,15,202.55,0,1147.78,05/03/2023,12:21:40,stripe,completed,5,2023
+YK4975VDBBTI,yassam@yahoo.com,swimwear,clothing,1,219.98,0,0.0,0,219.98,05/07/2023,11:01:06,credit_card,completed,5,2023
+J130DDS3FDQD,yassam@yahoo.com,board game storage,toys,1,38.46,0,0.0,6.38,44.84,05/22/2023,15:42:36,credit_card,completed,5,2023
+N8PWXXDBTYTQ,ianvanwill@outlook.com,stuffed animal storage,toys,1,25.54,0,0.0,12.9,38.44,05/21/2023,03:39:52,paypal,completed,5,2023
+5UKBMM00GKPR,ianvanwill@outlook.com,sports towel,sports_equipment,1,1342.18,0,0.0,0,1342.18,05/15/2023,09:27:56,paypal,completed,5,2023
+CIWLH56CHN9B,ianvanwill@outlook.com,swimwear,clothing,2,217.53,0,0.0,0,435.06,05/04/2023,06:31:38,credit_card,completed,5,2023
+KXONLF1U8KIV,ianvanwill@outlook.com,skateboard,sports_equipment,1,4749.44,0,0.0,0,4749.44,05/30/2023,18:06:37,paypal,completed,5,2023
+FNR3PL3O9W8X,ianvanwill@outlook.com,sweater,clothing,1,470.59,0,0.0,0,470.59,05/09/2023,07:29:28,paypal,completed,5,2023
+3S0XXLSD04QQ,ianvanwill@outlook.com,body lotion,beauty_products,1,16.16,0,0.0,10.19,26.35,05/19/2023,09:44:00,paypal,completed,5,2023
+2HW153CYG8UC,ianvanwill@outlook.com,smart doorbell,electronics,1,453.02,0,0.0,0,453.02,05/16/2023,05:28:22,credit_card,completed,5,2023
+XL2IKOIZTLEQ,ianvanwill@outlook.com,hair dryer,beauty_products,1,283.58,0,0.0,0,283.58,05/12/2023,19:21:59,stripe,completed,5,2023
+W8HWAGP54D2P,ianvanwill@outlook.com,sweatshirt,clothing,1,136.81,25,34.2,0,102.61,05/17/2023,11:05:49,paypal,completed,5,2023
+O5G9YNS00B2R,beavonray@outlook.com,pet crate,pet_supplies,1,252.19,0,0.0,0,252.19,05/01/2023,09:00:30,credit_card,completed,5,2023
+9G9E2E0TEG61,beajaketon@yahoo.com,jumpsuit,clothing,2,515.75,25,257.88,0,773.63,05/04/2023,11:32:42,credit_card,completed,5,2023
+JRB2XREE7Z1X,yantia@hotmail.com,dining table,furniture,2,6800.95,25,3400.48,0,10201.43,05/26/2023,17:05:05,credit_card,completed,5,2023
+ZCL0ARJ1EJX9,troyxia@yahoo.com,pet carrier,pet_supplies,1,158.86,25,39.72,0,119.15,05/18/2023,00:49:41,paypal,completed,5,2023
+41QS7SVT0XK0,troyxia@yahoo.com,cosmetic organizer,beauty_products,1,131.19,0,0.0,0,131.19,05/13/2023,00:15:45,stripe,completed,5,2023
+1QZLJMPC3GE2,troyxia@yahoo.com,facial tissues,beauty_products,1,103.56,15,15.53,0,88.02,05/12/2023,08:52:11,stripe,completed,5,2023
+8RYL7GCPODP6,troyxia@yahoo.com,smart speaker,electronics,1,2004.37,0,0.0,0,2004.37,05/23/2023,17:03:56,stripe,completed,5,2023
+AHMXLG0BXG7W,troyxia@yahoo.com,socks,clothing,1,136.0,0,0.0,0,136.0,05/18/2023,10:24:58,credit_card,completed,5,2023
+LEWTYHWL7I7M,troyxia@yahoo.com,coffee table books,furniture,1,1784.45,0,0.0,0,1784.45,05/16/2023,05:58:16,stripe,completed,5,2023
+CZYLCL4XC6E9,troyxia@yahoo.com,wardrobe,furniture,1,2816.84,20,563.37,0,2253.47,05/21/2023,14:16:11,stripe,completed,5,2023
+OV9Z0TEO35AV,troyxia@yahoo.com,poetry collection,books,3,87.94,20,52.76,0,211.05,05/23/2023,19:40:42,stripe,completed,5,2023
+DDJJM8U70LF5,troyxia@yahoo.com,parka,clothing,1,350.55,0,0.0,0,350.55,05/03/2023,05:54:12,credit_card,completed,5,2023
+UII1OJPJN3DI,bellawes@aol.com,book display stand,books,3,77.53,0,0.0,0,232.58,05/02/2023,20:40:19,stripe,completed,5,2023
+309MII6U6G7C,nateudo@hotmail.com,heels,footwear,3,382.49,0,0.0,0,1147.47,05/10/2023,04:05:35,credit_card,completed,5,2023
+RZIP7C01RDFT,abehoaley@hotmail.com,skirt,clothing,1,60.96,5,3.05,0,57.91,05/12/2023,15:23:30,credit_card,completed,5,2023
+HDZ2J6Z1QBNY,fayedeholly@aol.com,peeler,kitchenware,1,393.34,0,0.0,0,393.34,05/24/2023,12:08:46,paypal,completed,5,2023
+0QFIX9V41UZL,fayedeholly@aol.com,swimwear,clothing,1,217.05,0,0.0,0,217.05,05/11/2023,09:29:29,paypal,completed,5,2023
+T7TL32KLYR0Q,fayedeholly@aol.com,bookshelf organizers,furniture,1,3602.99,0,0.0,0,3602.99,05/22/2023,06:20:19,stripe,completed,5,2023
+RJLJG8HIKT3G,fayedeholly@aol.com,pet harness,pet_supplies,4,301.22,15,180.73,0,1024.14,05/03/2023,18:55:20,credit_card,completed,5,2023
+06H3NHSA0CUH,riadihugo@yahoo.com,hoodie,clothing,1,467.55,15,70.13,0,397.42,05/28/2023,05:58:04,paypal,completed,5,2023
+WLMDSHN6Z302,hugoelzia@gmail.com,ankle boots,footwear,1,1140.59,0,0.0,0,1140.59,05/16/2023,03:23:36,credit_card,completed,5,2023
+342J775A0TB4,hugoelzia@gmail.com,pet carrier accessories,pet_supplies,1,119.92,0,0.0,0,119.92,05/18/2023,13:31:48,paypal,completed,5,2023
+ZCN9PEU2902W,vicmczed@hotmail.com,exercise mat,sports_equipment,1,1535.84,0,0.0,0,1535.84,05/23/2023,14:40:19,stripe,completed,5,2023
+XX4A8TTXD5TU,vicmczed@hotmail.com,parka,clothing,1,352.64,5,17.63,0,335.01,05/02/2023,18:07:29,credit_card,completed,5,2023
+QJE1WI3KYDOH,veraleabe@yahoo.com,peeler,kitchenware,1,392.07,0,0.0,0,392.07,05/04/2023,19:38:35,credit_card,completed,5,2023
+JXQV3IRJRQIS,veraleabe@yahoo.com,bookshelf organizers,books,1,38.06,0,0.0,0,38.06,05/12/2023,08:15:17,credit_card,completed,5,2023
+Y91P1IQ2AZRN,veraleabe@yahoo.com,bookshelf organizers,furniture,1,3597.26,0,0.0,0,3597.26,05/05/2023,18:19:42,stripe,completed,5,2023
+ZVJRMIAWJA6S,nedvondeeley@gmail.com,armchair,furniture,1,8885.46,0,0.0,0,8885.46,05/29/2023,08:25:10,stripe,completed,5,2023
+968SV4CKTDTN,nedvondeeley@gmail.com,gym bag,sports_equipment,1,1964.53,0,0.0,0,1964.53,05/01/2023,01:46:19,credit_card,completed,5,2023
+OSOHT8TIPQ7S,maxdioonasen@yahoo.com,toaster,home_appliances,1,4112.67,0,0.0,0,4112.67,05/26/2023,01:55:17,credit_card,completed,5,2023
+4WST42VUW4JQ,maxdioonasen@yahoo.com,home security camera,electronics,1,958.74,10,95.87,0,862.87,05/04/2023,10:27:24,paypal,completed,5,2023
+UI6LIJTQZ30D,troylaluna@hotmail.com,toy boxes,toys,1,107.23,0,0.0,0,107.23,05/21/2023,23:12:43,credit_card,completed,5,2023
+7YWM28CCLDVP,slyvivson@outlook.com,gaming chair,furniture,4,8450.7,20,6760.56,0,27042.25,05/26/2023,17:31:04,paypal,completed,5,2023
+FTWQKQEYUPB5,davidfinnley@gmail.com,pet scratching post,pet_supplies,1,191.64,0,0.0,0,191.64,05/06/2023,16:18:52,credit_card,completed,5,2023
+7F7RCQK2UNBW,davidfinnley@gmail.com,shoehorn,footwear,1,413.89,25,103.47,0,310.42,05/16/2023,05:07:56,paypal,completed,5,2023
+J2WTCNST9HIA,alicelagia@hotmail.com,lego storage,toys,1,257.45,0,0.0,0,257.45,05/24/2023,01:08:03,paypal,completed,5,2023
+Q0572KMI0FEP,alicelagia@hotmail.com,shoehorn,footwear,1,414.2,0,0.0,0,414.2,05/12/2023,13:05:59,credit_card,completed,5,2023
+JAB5LQDYBVT8,wesray@hotmail.com,puzzle storage,toys,1,145.92,0,0.0,0,145.92,05/24/2023,05:40:40,stripe,completed,5,2023
+UPC5O7WCIEH8,wesray@hotmail.com,shoehorn,footwear,2,416.01,0,0.0,0,832.03,05/18/2023,18:48:50,stripe,completed,5,2023
+A0I1H73FQJXO,chrisuma@yahoo.com,action figure storage,toys,1,44.37,0,0.0,6.34,50.71,05/08/2023,13:37:45,credit_card,completed,5,2023
+XONUIBVA3RE8,chrisuma@yahoo.com,non-stick cookware,kitchenware,2,358.9,0,0.0,0,717.79,05/26/2023,07:53:15,stripe,completed,5,2023
+85XGO27KORIN,paxalisla@icloud.com,action figure storage,toys,1,44.61,0,0.0,14.12,58.73,05/01/2023,09:42:48,paypal,completed,5,2023
+9Z35AT15LD4T,paxalisla@icloud.com,ankle boots,footwear,1,1144.85,20,228.97,0,915.88,05/04/2023,19:00:27,stripe,completed,5,2023
+LOFAOU8B47ZR,paxalisla@icloud.com,body lotion,beauty_products,5,16.22,0,0.0,0,81.1,05/01/2023,09:12:42,credit_card,completed,5,2023
+C0GO6B3P346U,yanmackate@yahoo.com,coffee table books,furniture,1,1788.26,0,0.0,0,1788.26,05/09/2023,11:15:49,paypal,completed,5,2023
+57BK9H0Y08VC,ziastnoah@gmail.com,sectional sofa,furniture,3,10584.28,0,0.0,0,31752.85,05/16/2023,22:27:05,paypal,completed,5,2023
+96L54J8DGZ9I,ziastnoah@gmail.com,baking set,kitchenware,4,854.27,0,0.0,0,3417.07,05/25/2023,18:20:35,stripe,completed,5,2023
+68POQU8HYTB2,ziastnoah@gmail.com,lego set,toys,1,163.92,0,0.0,0,163.92,05/13/2023,11:31:38,paypal,completed,5,2023
+H7YPBN129JR4,ziastnoah@gmail.com,kitchen towels,kitchenware,1,247.99,5,12.4,0,235.59,05/17/2023,16:29:15,paypal,completed,5,2023
+4BYZBG0HAJND,giaivy@gmail.com,pet travel bag,pet_supplies,1,118.15,0,0.0,0,118.15,05/14/2023,15:23:23,paypal,completed,5,2023
+A9LW0C20D1F9,giaivy@gmail.com,stove,home_appliances,1,1478.66,0,0.0,0,1478.66,05/30/2023,11:39:34,stripe,completed,5,2023
+A1HG15CTIC3R,peterhoa@gmail.com,microwave oven,home_appliances,1,3354.6,10,335.46,0,3019.14,05/17/2023,00:32:06,paypal,completed,5,2023
+527E7AWFS10C,nedvonzack@hotmail.com,foam roller,sports_equipment,1,1413.08,0,0.0,0,1413.08,05/17/2023,12:55:06,paypal,completed,5,2023
+DEGKW6C57G3K,nedvonzack@hotmail.com,trench coat,clothing,1,208.18,0,0.0,0,208.18,05/27/2023,06:08:08,stripe,completed,5,2023
+CPGA70ZRRNEO,nedvonzack@hotmail.com,book display stand,books,1,77.91,0,0.0,0,77.91,05/10/2023,15:00:46,paypal,completed,5,2023
+BWQA18CMMLHW,dangrace@outlook.com,smart doorbell,electronics,4,450.03,0,0.0,0,1800.11,05/24/2023,10:18:08,credit_card,completed,5,2023
+TYC8V8RFBSW6,miaelabe@yahoo.com,dress shirt,clothing,2,548.09,0,0.0,0,1096.17,05/02/2023,07:12:44,stripe,completed,5,2023
+NBQPBLJF7SFX,miaelabe@yahoo.com,ladle,kitchenware,3,304.58,0,0.0,0,913.74,05/04/2023,16:18:23,credit_card,completed,5,2023
+HLFOZL0NN1IP,jayalxandersen@hotmail.com,console table,furniture,1,1062.88,0,0.0,0,1062.88,05/09/2023,19:35:59,stripe,completed,5,2023
+HXI97ZPCE6MT,jayalxandersen@hotmail.com,pet harness,pet_supplies,1,300.38,10,30.04,0,270.35,05/29/2023,00:42:44,paypal,completed,5,2023
+M8RG29U8PI0E,alexvera@protonmail.com,lego set,toys,4,162.72,20,130.17,0,520.69,05/13/2023,10:11:24,credit_card,completed,5,2023
+VCDDP6ZU158D,katedieve@gmail.com,arch support,footwear,1,586.2,25,146.55,0,439.65,05/11/2023,15:44:16,stripe,completed,5,2023
+810WEZK2CI84,katedieve@gmail.com,slow cooker,kitchenware,1,684.19,0,0.0,0,684.19,05/01/2023,18:05:04,stripe,completed,5,2023
+NAUGKIVAYJ0W,katedieve@gmail.com,slow cooker,kitchenware,1,682.52,0,0.0,0,682.52,05/16/2023,04:31:23,paypal,completed,5,2023
+CT4LQK1EU0ID,katedieve@gmail.com,hair dryer,beauty_products,1,283.02,10,28.3,0,254.72,05/13/2023,09:33:27,paypal,completed,5,2023
+ERHWIL4KQIAS,katedieve@gmail.com,exercise ball,sports_equipment,1,2032.1,0,0.0,0,2032.1,05/08/2023,23:01:06,paypal,completed,5,2023
+PBDQN8FDCZPR,katedieve@gmail.com,boots,footwear,2,1009.3,0,0.0,0,2018.6,05/14/2023,07:28:17,paypal,completed,5,2023
+AZA0566H9J5I,katedieve@gmail.com,pet bed accessories,pet_supplies,4,138.12,0,0.0,0,552.5,05/26/2023,00:47:18,stripe,completed,5,2023
+CG4GS92ENE09,yasvaneliley@hotmail.com,shoe laces,footwear,2,228.41,25,114.21,0,342.62,05/11/2023,13:55:29,stripe,completed,5,2023
+I52XKI554C7O,yasvaneliley@hotmail.com,hockey stick,sports_equipment,1,3696.43,10,369.64,0,3326.79,05/16/2023,18:19:26,stripe,completed,5,2023
+RQSHMYX7XEJU,yasvaneliley@hotmail.com,spatula,kitchenware,1,20.22,0,0.0,8.72,28.94,05/02/2023,21:02:11,stripe,completed,5,2023
+DS57UQCU2JFZ,sagealtaj@gmail.com,food processor,home_appliances,1,1303.32,5,65.17,0,1238.15,05/11/2023,06:17:37,paypal,completed,5,2023
+T7ROKXX5E87X,abehoa@yahoo.com,kitchen towels,kitchenware,1,248.51,0,0.0,0,248.51,05/08/2023,03:59:11,credit_card,completed,5,2023
+KYMY1PY8UECR,johnkara@gmail.com,bed,furniture,4,7572.88,0,0.0,0,30291.52,05/03/2023,13:09:31,credit_card,completed,5,2023
+G1RRDEF5IRG4,lunasaintzia@gmail.com,science kits,toys,1,333.23,10,33.32,0,299.91,05/04/2023,11:04:29,paypal,completed,5,2023
+3O8KM77V8C7D,kiakyle@gmail.com,trampoline,toys,1,335.93,0,0.0,0,335.93,05/05/2023,08:55:15,stripe,completed,5,2023
+85HZNNJHYQ1X,kiakyle@gmail.com,exercise resistance bands,sports_equipment,3,825.29,0,0.0,0,2475.86,05/09/2023,10:52:38,stripe,completed,5,2023
+78U4BXIC51EX,rexdiwaltley@aol.com,pilates reformer,sports_equipment,1,4220.3,0,0.0,0,4220.3,05/10/2023,11:28:29,credit_card,completed,5,2023
+CJB51JF3B6IU,rexdiwaltley@aol.com,pet waste bags,pet_supplies,3,184.78,0,0.0,0,554.33,05/20/2023,22:07:46,stripe,completed,5,2023
+JWXZWJF64W9O,cailatroy@hotmail.com,dress,clothing,1,532.43,0,0.0,0,532.43,05/05/2023,12:07:54,credit_card,completed,5,2023
+07Q7C5XR27MC,cailatroy@hotmail.com,pet water bowl,pet_supplies,1,38.29,0,0.0,8.55,46.84,05/22/2023,17:27:33,paypal,completed,5,2023
+8HSKUWBJDHR8,cailatroy@hotmail.com,wrist wraps,sports_equipment,1,1583.6,0,0.0,0,1583.6,05/28/2023,10:20:38,paypal,completed,5,2023
+AUYNO598C7XE,cailatroy@hotmail.com,food processor parts,home_appliances,1,1281.26,0,0.0,0,1281.26,05/18/2023,04:26:33,stripe,completed,5,2023
+2NIXALBWT9A2,cailatroy@hotmail.com,underwear,clothing,4,285.79,0,0.0,0,1143.15,05/31/2023,15:43:30,stripe,completed,5,2023
+PK8SPE7JI1AL,cailatroy@hotmail.com,stuffed animals,toys,4,303.55,0,0.0,0,1214.2,05/05/2023,07:46:42,paypal,completed,5,2023
+RE1X6PD3CO77,tomzoesen@gmail.com,shoe polish,footwear,1,321.04,20,64.21,0,256.83,05/30/2023,20:46:00,credit_card,completed,5,2023
+GHI7DJGHTHNG,tomzoesen@gmail.com,oven mitts,kitchenware,1,356.23,0,0.0,0,356.23,05/10/2023,10:18:45,credit_card,completed,5,2023
+NOUHIQ9OQ4WP,tomzoesen@gmail.com,hockey stick,sports_equipment,1,3701.92,0,0.0,0,3701.92,05/08/2023,05:39:32,credit_card,completed,5,2023
+LJOU76OHOPF4,tomzoesen@gmail.com,pet toys,pet_supplies,1,194.05,0,0.0,0,194.05,05/25/2023,15:18:33,stripe,completed,5,2023
+Q20XTYRFRK4Q,tomzoesen@gmail.com,food processor parts,home_appliances,3,1287.45,15,579.35,0,3283.01,05/19/2023,13:46:34,credit_card,completed,5,2023
+O7N6VV7EXWCV,bobwes@yahoo.com,reading light,books,1,54.38,0,0.0,0,54.38,05/19/2023,14:22:43,credit_card,completed,5,2023
+BMOXCQJTFETR,petergraceson@yahoo.com,baking set,kitchenware,1,849.7,0,0.0,0,849.7,05/15/2023,03:50:53,credit_card,completed,5,2023
+7UUR82SIZ4CX,karaoluke@yahoo.com,smartwatch,electronics,1,3641.54,0,0.0,0,3641.54,05/11/2023,23:37:05,paypal,completed,5,2023
+IH1ALN1N45NT,ryanoora@gmail.com,monitor stand,electronics,1,1618.07,0,0.0,0,1618.07,05/29/2023,19:16:17,stripe,completed,5,2023
+IVGFOAK4UEGP,ryanoora@gmail.com,sandals,footwear,1,939.45,25,234.86,0,704.59,05/25/2023,14:36:46,credit_card,completed,5,2023
+OTJVH9MJ4NKK,ryanoora@gmail.com,shoehorn,footwear,2,414.2,0,0.0,0,828.4,05/27/2023,16:22:56,stripe,completed,5,2023
+QNWIRKVCSARY,caratimton@aol.com,rice cooker,kitchenware,1,771.19,0,0.0,0,771.19,05/03/2023,17:03:22,credit_card,completed,5,2023
+KVLEW8MHOU3Q,caratimton@aol.com,loafers,footwear,1,574.65,0,0.0,0,574.65,05/11/2023,14:22:30,credit_card,completed,5,2023
+SSWSK3JR27PR,caratimton@aol.com,mystery novel,books,1,90.4,10,9.04,0,81.36,05/15/2023,14:53:29,paypal,completed,5,2023
+BF0O6IFAGPOL,caratimton@aol.com,sandals,footwear,1,943.17,0,0.0,0,943.17,05/29/2023,22:49:55,credit_card,completed,5,2023
+468MJQAZN12G,caratimton@aol.com,keyboard,electronics,1,2167.81,0,0.0,0,2167.81,05/23/2023,10:18:11,paypal,completed,5,2023
+I5LUNKOT9GYV,caratimton@aol.com,sectional sofa,furniture,1,10489.76,0,0.0,0,10489.76,05/13/2023,00:04:08,paypal,completed,5,2023
+7LIJ74CGWWXJ,caratimton@aol.com,headphones,electronics,1,3845.07,15,576.76,0,3268.31,05/21/2023,10:57:10,paypal,completed,5,2023
+W04M347ZU9PE,rexfaye@gmail.com,toy organizers,toys,1,262.09,0,0.0,0,262.09,05/04/2023,14:40:13,stripe,completed,5,2023
+6VXHTVW81TGO,rexfaye@gmail.com,yoga mat,sports_equipment,1,2276.96,0,0.0,0,2276.96,05/24/2023,10:58:07,credit_card,completed,5,2023
+7A1D1WSIJOO3,leoleleo@icloud.com,skincare set,beauty_products,1,189.45,25,47.36,0,142.09,05/05/2023,18:56:58,credit_card,completed,5,2023
+W9SN5VRO4CFU,leoleleo@icloud.com,play kitchen accessories,toys,2,140.21,15,42.06,0,238.36,05/13/2023,22:22:12,credit_card,completed,5,2023
+7RCU6ZZUIXQ4,boblaeve@yahoo.com,pet water bowl,pet_supplies,1,38.14,0,0.0,9.1,47.24,05/28/2023,10:53:56,credit_card,completed,5,2023
+DAXH2KKATOG5,boblaeve@yahoo.com,exercise ball,sports_equipment,1,2051.23,0,0.0,0,2051.23,05/22/2023,02:59:27,credit_card,completed,5,2023
+U8VI2Q8TIVZP,boblaeve@yahoo.com,comic book,books,1,91.48,15,13.72,0,77.75,05/14/2023,11:21:24,paypal,completed,5,2023
+2EVP98UKBZ5J,gabejade@gmail.com,rice cooker parts,home_appliances,1,668.65,0,0.0,0,668.65,05/14/2023,17:50:30,credit_card,completed,5,2023
+75WGGYZAP5C4,gabejade@gmail.com,oven,home_appliances,1,4501.99,15,675.3,0,3826.69,05/30/2023,13:57:49,paypal,completed,5,2023
+H8IT0B6XZSO9,zoevonmark@gmail.com,pet bed accessories,pet_supplies,1,139.77,25,34.94,0,104.83,05/22/2023,20:56:15,paypal,completed,5,2023
+9MKV0Q6U5G7B,kylemacfay@icloud.com,dehumidifier,home_appliances,1,3384.63,0,0.0,0,3384.63,05/14/2023,09:24:36,stripe,completed,5,2023
+7ZBKM6LUOPIY,kylemacfay@icloud.com,bookends,books,5,67.67,0,0.0,0,338.34,05/22/2023,19:24:36,paypal,completed,5,2023
+IS46IF8US3S0,kylesaintgusson@gmail.com,exercise resistance bands,sports_equipment,1,828.46,0,0.0,0,828.46,05/10/2023,01:24:02,stripe,completed,5,2023
+Q54MC1BV01Q5,kylesaintgusson@gmail.com,pet brush,pet_supplies,1,149.06,5,7.45,0,141.61,05/13/2023,16:08:07,stripe,completed,5,2023
+4B8KJGZ2FGL3,kylesaintgusson@gmail.com,activewear set,clothing,1,174.95,0,0.0,0,174.95,05/05/2023,02:08:13,credit_card,completed,5,2023
+00ANLSM0G1XI,vivdisia@gmail.com,pet toothbrush,pet_supplies,3,75.86,10,22.76,0,204.82,05/31/2023,13:06:03,credit_card,completed,5,2023
+K9RPHTVRKBR7,vivdisia@gmail.com,accessories,clothing,1,249.08,0,0.0,0,249.08,05/19/2023,00:28:51,credit_card,completed,5,2023
+KLTOWQHUZZMK,vivdisia@gmail.com,action figures,toys,2,222.34,0,0.0,0,444.68,05/02/2023,15:32:57,stripe,completed,5,2023
+3BNAAHX0TT5M,vivdisia@gmail.com,kitchen utensils set,kitchenware,5,301.24,0,0.0,0,1506.2,05/27/2023,16:26:42,paypal,completed,5,2023
+3YG3T0M25XC1,chrislawan@protonmail.com,pet toothbrush,pet_supplies,5,75.95,0,0.0,0,379.73,05/27/2023,00:05:14,stripe,completed,5,2023
+NEQ5ILJTKATQ,liamlawan@yahoo.com,dining table,furniture,1,6807.08,0,0.0,0,6807.08,05/29/2023,00:52:49,stripe,completed,5,2023
+YODTZ8G06MIC,ziapia@yahoo.com,video game console,toys,2,29.94,25,14.97,8.48,53.38,05/14/2023,12:22:38,stripe,completed,5,2023
+YIBILS3MWAPY,petervonmoe@yahoo.com,dollhouse accessories,toys,1,259.58,0,0.0,0,259.58,05/06/2023,23:33:13,credit_card,completed,5,2023
+5YIKUE6RLB6Y,petervonmoe@yahoo.com,reading light,books,1,54.19,0,0.0,0,54.19,05/07/2023,21:56:41,paypal,completed,5,2023
+DNPNJMCT2L2M,petervonmoe@yahoo.com,shoe polish,footwear,1,317.52,0,0.0,0,317.52,05/27/2023,08:53:43,credit_card,completed,5,2023
+V7QYFAHN0IB2,petervonmoe@yahoo.com,dollhouse accessories,toys,1,260.14,0,0.0,0,260.14,05/24/2023,14:20:28,paypal,completed,5,2023
+PWK3C1JLGEJS,petervonmoe@yahoo.com,ladle,kitchenware,4,303.38,0,0.0,0,1213.51,05/21/2023,06:15:10,stripe,completed,5,2023
+DDKACHCXJG81,petervonmoe@yahoo.com,history book,books,1,127.52,0,0.0,0,127.52,05/27/2023,14:04:24,stripe,completed,5,2023
+T1WRE9RV9D9B,hollyvancal@gmail.com,pet water fountain,pet_supplies,1,111.24,0,0.0,0,111.24,05/10/2023,22:41:14,credit_card,completed,5,2023
+2AK72HLMTMED,hollyvancal@gmail.com,humidifier,home_appliances,1,2016.23,0,0.0,0,2016.23,05/05/2023,09:28:26,credit_card,completed,5,2023
+IPSTK4EAK1U6,xaneve@hotmail.com,slow cooker,kitchenware,2,682.18,0,0.0,0,1364.35,05/22/2023,16:49:50,stripe,completed,5,2023
+G5OZXPZL70MI,abedijenley@protonmail.com,printer,electronics,1,1516.32,15,227.45,0,1288.87,05/06/2023,12:00:48,paypal,completed,5,2023
+9VBS32F10EWP,ginadical@gmail.com,trench coat,clothing,1,207.71,0,0.0,0,207.71,05/18/2023,15:39:00,paypal,completed,5,2023
+TJUWNEB4H1K8,leohugo@hotmail.com,desk organizers,furniture,1,1725.61,15,258.84,0,1466.77,05/09/2023,13:56:54,paypal,completed,5,2023
+3CTJKD22J7X7,leohugo@hotmail.com,arts and crafts storage,toys,1,120.6,0,0.0,0,120.6,05/05/2023,04:17:07,paypal,completed,5,2023
+1UZX8PKBXIWA,leohugo@hotmail.com,dress,clothing,1,524.43,15,78.66,0,445.77,05/11/2023,12:59:01,stripe,completed,5,2023
+I9Y1P1KAGK6M,leohugo@hotmail.com,board games,toys,2,247.41,15,74.22,0,420.6,05/17/2023,06:55:57,credit_card,completed,5,2023
+K86K6J1HTPS9,owentimson@protonmail.com,hoodie,clothing,1,466.07,0,0.0,0,466.07,05/21/2023,14:27:10,stripe,completed,5,2023
+IAFZT67OUOF7,owentimson@protonmail.com,pet water bowl,pet_supplies,1,38.05,0,0.0,13.26,51.31,05/11/2023,13:15:49,credit_card,completed,5,2023
+B9IV88E6IKZR,owentimson@protonmail.com,loungewear,clothing,1,54.0,0,0.0,0,54.0,05/30/2023,01:01:40,credit_card,completed,5,2023
+S3T281TK8YX4,waltrex@gmail.com,fitness tracker,electronics,1,7487.09,0,0.0,0,7487.09,05/26/2023,22:54:05,credit_card,completed,5,2023
+MHQIY8IJXZP1,waltrex@gmail.com,educational toys,toys,1,76.14,0,0.0,0,76.14,05/22/2023,15:19:29,paypal,completed,5,2023
+MXVDLMM2J469,waltrex@gmail.com,jumpsuit,clothing,1,516.02,0,0.0,0,516.02,05/05/2023,02:25:41,stripe,completed,5,2023
+R1POKJ3AXOOB,vicyan@outlook.com,non-stick cookware,kitchenware,1,359.48,10,35.95,0,323.53,05/01/2023,00:15:14,credit_card,completed,5,2023
+9FAY07PJV13T,vicyan@outlook.com,nail polish set,beauty_products,1,21.74,10,2.17,0,19.57,05/17/2023,15:07:18,stripe,completed,5,2023
+ZRWS1SZV3T26,vicyan@outlook.com,socks,clothing,1,136.11,0,0.0,0,136.11,05/14/2023,11:29:23,stripe,completed,5,2023
+CKGV3GU1GRNE,miaelfay@hotmail.com,remote control boat,toys,1,392.71,0,0.0,0,392.71,05/09/2023,00:03:23,credit_card,completed,5,2023
+S7RIPQVU0UKX,miaelfay@hotmail.com,camera tripod,electronics,1,639.13,0,0.0,0,639.13,05/05/2023,04:49:42,paypal,completed,5,2023
+63YFK5OM2L21,miaelfay@hotmail.com,pet crate accessories,pet_supplies,1,60.07,0,0.0,0,60.07,05/05/2023,02:11:36,stripe,completed,5,2023
+76RURMBBONAQ,miaelfay@hotmail.com,hoodie,clothing,1,463.09,15,69.46,0,393.63,05/09/2023,18:44:39,credit_card,completed,5,2023
+9VHENQ1DT268,miaelfay@hotmail.com,dress shirt,clothing,1,549.84,5,27.49,0,522.35,05/30/2023,13:31:39,credit_card,completed,5,2023
+PK3H7Z7MHU3R,miaelfay@hotmail.com,science fiction novel,books,1,91.56,0,0.0,0,91.56,05/23/2023,21:55:05,paypal,completed,5,2023
+9LLBPCQ5CM6J,miaelfay@hotmail.com,toy organizers,toys,1,260.73,0,0.0,0,260.73,05/06/2023,05:45:19,stripe,completed,5,2023
+TCYQCL8CP4IN,miaelfay@hotmail.com,bookmarks,books,4,82.49,10,32.99,0,296.95,05/07/2023,06:31:10,stripe,completed,5,2023
+IDS9T84C1YMD,lunaola@outlook.com,smart home device,electronics,1,2436.11,0,0.0,0,2436.11,05/28/2023,08:39:34,stripe,completed,5,2023
+DT6I9K7GWPF1,lunaola@outlook.com,pet dental care kit,pet_supplies,1,112.71,10,11.27,0,101.44,05/03/2023,07:16:03,credit_card,completed,5,2023
+EXWPZ8W4EYOX,samlegus@gmail.com,pet first aid kit,pet_supplies,1,301.01,0,0.0,0,301.01,05/04/2023,21:56:02,paypal,completed,5,2023
+5S5M1ZPZLW1Z,samlegus@gmail.com,pet toothbrush,pet_supplies,3,75.61,20,45.37,0,181.47,05/21/2023,22:15:40,credit_card,completed,5,2023
+6PFJZ7DQO48V,doralepaul@outlook.com,home security camera,electronics,1,963.68,0,0.0,0,963.68,05/29/2023,01:11:49,paypal,completed,5,2023
+TI5L5B31SJNT,doralepaul@outlook.com,dining table,furniture,1,6829.53,0,0.0,0,6829.53,05/15/2023,06:18:51,stripe,completed,5,2023
+WPOW1QRB1Q61,doralepaul@outlook.com,pet nail clippers,pet_supplies,5,70.59,0,0.0,0,352.97,05/16/2023,19:53:26,credit_card,completed,5,2023
+GSZBI1OSMLMJ,doralepaul@outlook.com,phone case,electronics,1,3027.11,0,0.0,0,3027.11,05/22/2023,08:42:48,paypal,completed,5,2023
+BDFF9FSV1H2V,doralepaul@outlook.com,video game console,toys,2,30.33,5,3.03,0,57.63,05/29/2023,00:53:49,credit_card,completed,5,2023
+VB9FUCGSQZCD,doralepaul@outlook.com,coffee machine,kitchenware,1,139.41,10,13.94,0,125.47,05/05/2023,01:48:13,credit_card,completed,5,2023
+LA61786OVI27,doralepaul@outlook.com,loungewear,clothing,2,54.61,20,21.84,0,87.38,05/17/2023,04:45:18,stripe,completed,5,2023
+ML4XDYEWKVIE,ziaeldan@yahoo.com,pet feeding mat,pet_supplies,1,142.81,0,0.0,0,142.81,05/08/2023,04:33:38,stripe,completed,5,2023
+YW8XTWS1894X,kailexanley@hotmail.com,bookmarks,books,1,82.41,10,8.24,0,74.17,05/04/2023,09:40:51,credit_card,completed,5,2023
+KZR1282RX8QQ,ikeoluketon@yahoo.com,wedge sandals,footwear,2,741.52,0,0.0,0,1483.03,05/27/2023,00:41:55,credit_card,completed,5,2023
+V8QFL0DHD16B,raymaczia@gmail.com,makeup set,beauty_products,1,185.22,0,0.0,0,185.22,05/12/2023,17:03:24,credit_card,completed,5,2023
+ELAUPOU76HVU,bensaintmiaton@gmail.com,sports towel,sports_equipment,1,1351.97,0,0.0,0,1351.97,05/28/2023,21:32:48,stripe,completed,5,2023
+9FZ42Q69ZIQ3,carawendy@gmail.com,sweatshirt,clothing,1,136.44,20,27.29,0,109.16,05/13/2023,20:45:43,credit_card,completed,5,2023
+PR5VEXBNH3G8,carawendy@gmail.com,socks,clothing,1,136.56,0,0.0,0,136.56,05/04/2023,14:53:10,paypal,completed,5,2023
+L0R85ZI0ND5I,carawendy@gmail.com,lego set,toys,1,163.29,0,0.0,0,163.29,05/19/2023,22:44:13,credit_card,completed,5,2023
+NL5BU50NS41X,carawendy@gmail.com,fantasy novel,books,5,65.31,0,0.0,0,326.54,05/29/2023,11:39:30,credit_card,completed,5,2023
+0K3J2TYZ818Z,carawendy@gmail.com,insoles,footwear,1,404.76,0,0.0,0,404.76,05/22/2023,04:27:26,paypal,completed,5,2023
+DA8R2MYI2BGC,carawendy@gmail.com,coat,clothing,1,160.08,10,16.01,0,144.07,05/26/2023,00:51:36,credit_card,completed,5,2023
+79TTBLI8REJ1,carawendy@gmail.com,microwave oven accessories,home_appliances,1,1284.29,0,0.0,0,1284.29,05/10/2023,07:32:32,credit_card,completed,5,2023
+53EJ77YFFUZP,carawendy@gmail.com,smartphone,electronics,1,328.83,0,0.0,0,328.83,05/28/2023,23:40:36,paypal,completed,5,2023
+7KYIEWZQY2DD,carawendy@gmail.com,dress shoes,footwear,1,877.26,20,175.45,0,701.81,05/17/2023,14:35:23,stripe,completed,5,2023
+PI2PVY7BDXRC,carawendy@gmail.com,food processor parts,home_appliances,1,1273.43,0,0.0,0,1273.43,05/15/2023,13:23:17,credit_card,completed,5,2023
+3CRKQF88G7B2,adaian@protonmail.com,basketball hoop,sports_equipment,1,3812.73,20,762.55,0,3050.18,05/19/2023,12:30:01,stripe,completed,5,2023
+7APZEZK7S6BD,adaian@protonmail.com,smartwatch band,electronics,4,402.86,0,0.0,0,1611.44,05/16/2023,15:11:34,credit_card,completed,5,2023
+APOAFBJBL7L2,adaian@protonmail.com,coffee table books,furniture,1,1795.86,25,448.97,0,1346.9,05/15/2023,03:27:39,paypal,completed,5,2023
+1PB23I69YPXC,ninasam@gmail.com,pet first aid kit,pet_supplies,2,302.74,0,0.0,0,605.49,05/13/2023,17:58:00,credit_card,completed,5,2023
+03DPZOAM5UXF,ninasam@gmail.com,yoga mat,sports_equipment,1,2274.12,20,454.82,0,1819.3,05/02/2023,19:17:30,paypal,completed,5,2023
+N7VX737ZRDLE,ninasam@gmail.com,makeup bag,beauty_products,3,128.04,0,0.0,0,384.12,05/22/2023,14:43:37,paypal,completed,5,2023
+RQR8PQFXGIZB,ginafayson@gmail.com,monitor stand,electronics,1,1612.83,25,403.21,0,1209.62,05/08/2023,09:56:47,stripe,completed,5,2023
+DRQCLJ1CKNAM,ginafayson@gmail.com,air purifier,home_appliances,1,3675.77,0,0.0,0,3675.77,05/05/2023,15:50:23,paypal,completed,5,2023
+DNSTXPVUJ6SF,ginafayson@gmail.com,cookbook,books,1,130.41,0,0.0,0,130.41,05/09/2023,12:58:34,stripe,completed,5,2023
+DCMVZ38WX912,ginafayson@gmail.com,coffee maker,home_appliances,3,3345.18,25,2508.88,0,7526.65,05/12/2023,17:05:59,stripe,completed,5,2023
+WY1YFEH0TU5E,ginafayson@gmail.com,toy boxes,toys,1,105.97,0,0.0,0,105.97,05/09/2023,21:23:21,stripe,completed,5,2023
+ENWVE49MNMPW,ginafayson@gmail.com,robot vacuum cleaner,electronics,1,6778.58,0,0.0,0,6778.58,05/03/2023,00:31:42,credit_card,completed,5,2023
+Z1J8HDP3CD31,ginafayson@gmail.com,shoe organizer,footwear,1,272.03,0,0.0,0,272.03,05/04/2023,17:56:34,credit_card,completed,5,2023
+5J2F3TRY6E3F,chriselviv@gmail.com,hoodie,clothing,1,467.66,5,23.38,0,444.28,05/27/2023,00:05:32,stripe,completed,5,2023
+FQ0WPVDVVHKP,chriselviv@gmail.com,play kitchen accessories,toys,3,137.95,25,103.46,0,310.38,05/08/2023,15:18:13,credit_card,completed,5,2023
+LPW5QHAQ641T,timcarasen@gmail.com,armchair,furniture,1,8882.04,0,0.0,0,8882.04,05/25/2023,21:52:31,credit_card,completed,5,2023
+Z5DG20PO2ECF,timcarasen@gmail.com,cast iron skillet,kitchenware,1,91.58,10,9.16,0,82.43,05/01/2023,07:55:23,paypal,completed,5,2023
+ZKEANM6L3FMG,sagemcwyn@yahoo.com,patio umbrella,furniture,1,3249.82,5,162.49,0,3087.33,05/11/2023,21:04:43,credit_card,completed,5,2023
+L6VYUVI3318I,alexxia@outlook.com,food processor parts,home_appliances,1,1273.94,0,0.0,0,1273.94,05/01/2023,04:28:45,credit_card,completed,5,2023
+XY1LCHCTSMZT,alexxia@outlook.com,pajamas,clothing,1,177.41,0,0.0,0,177.41,05/10/2023,03:37:23,paypal,completed,5,2023
+Z6DVFWVH5K7X,finnyaston@gmail.com,gaming console,electronics,1,5601.29,5,280.06,0,5321.22,05/09/2023,14:06:27,stripe,completed,5,2023
+MI37XLYDSWN0,finnyaston@gmail.com,colander,kitchenware,1,317.86,0,0.0,0,317.86,05/17/2023,04:58:31,stripe,completed,5,2023
+4PRKEJ77TK4U,finnyaston@gmail.com,pet toys,pet_supplies,5,192.53,0,0.0,0,962.65,05/13/2023,19:33:36,credit_card,completed,5,2023
+6BXMXMCYO9OF,zoealsam@yahoo.com,hair straightener,beauty_products,5,42.13,0,0.0,0,210.67,05/29/2023,10:48:22,credit_card,completed,5,2023
+3X58LMFSGEF5,zoealsam@yahoo.com,fantasy novel,books,1,65.27,0,0.0,0,65.27,05/24/2023,14:50:09,stripe,completed,5,2023
+N8LHHEBKEIJX,zoealsam@yahoo.com,bookmarks,books,1,82.23,0,0.0,0,82.23,05/27/2023,06:18:34,paypal,completed,5,2023
+XW3NY66P3D0B,giapia@aol.com,video game console accessories,toys,1,132.37,0,0.0,0,132.37,05/29/2023,03:20:04,stripe,completed,5,2023
+13MJT2Y6PV8A,giapia@aol.com,comic book,books,1,91.85,20,18.37,0,73.48,05/04/2023,16:42:06,credit_card,completed,5,2023
+GD7IPC3IYIB2,emmadylan@hotmail.com,sports gloves,sports_equipment,1,1515.83,15,227.37,0,1288.46,05/20/2023,03:34:52,stripe,completed,5,2023
+MXI3XWANEA4U,emmadylan@hotmail.com,oven mitts,kitchenware,1,354.47,10,35.45,0,319.02,05/19/2023,21:54:58,stripe,completed,5,2023
+5EYFS458VQOP,bobleoona@outlook.com,pet food storage container,pet_supplies,4,68.41,0,0.0,0,273.63,05/22/2023,15:31:11,stripe,completed,5,2023
+K59O6P1NUMCB,bobleoona@outlook.com,drone accessories,electronics,1,2958.14,0,0.0,0,2958.14,05/30/2023,18:20:40,paypal,completed,5,2023
+0CKAGZYOUMZX,bobleoona@outlook.com,washing machine,home_appliances,1,1269.37,0,0.0,0,1269.37,05/25/2023,23:25:56,stripe,completed,5,2023
+OXL90SBTKX33,bobleoona@outlook.com,bobby pins,beauty_products,1,61.67,20,12.33,5.75,55.08,05/07/2023,19:48:56,credit_card,completed,5,2023
+9AOHLYX7NIB3,liasaintben@hotmail.com,sandals,footwear,1,942.46,0,0.0,0,942.46,05/07/2023,17:39:11,credit_card,completed,5,2023
+R9ITBS3NODY3,liasaintben@hotmail.com,ankle weights,sports_equipment,1,1961.27,0,0.0,0,1961.27,05/06/2023,05:39:07,credit_card,completed,5,2023
+GCFZMA0RTPHV,liasaintben@hotmail.com,sports water bottle,sports_equipment,1,70.62,0,0.0,0,70.62,05/22/2023,07:43:36,stripe,completed,5,2023
+H6HACKE5RTQE,liasaintben@hotmail.com,comic book,books,1,91.53,0,0.0,0,91.53,05/18/2023,17:56:03,stripe,completed,5,2023
+HPFP9Z370LPE,xanderwaltson@gmail.com,baseball bat,sports_equipment,2,2711.19,0,0.0,0,5422.38,05/03/2023,08:27:06,credit_card,completed,5,2023
+7MACTWRZRCMF,xanderwaltson@gmail.com,blender,home_appliances,1,4699.83,0,0.0,0,4699.83,05/31/2023,07:36:24,credit_card,completed,5,2023
+AT713Y4KSHJC,xanderwaltson@gmail.com,winter coat,clothing,1,429.52,0,0.0,0,429.52,05/12/2023,00:49:34,stripe,completed,5,2023
+KAMQ3DG7VC09,ginapialey@protonmail.com,dollhouse,toys,1,245.77,0,0.0,0,245.77,05/05/2023,04:14:05,credit_card,completed,5,2023
+ZXN86D9TJY6O,ginapialey@protonmail.com,skateboard,sports_equipment,1,4729.73,20,945.95,0,3783.79,05/18/2023,09:35:20,stripe,completed,5,2023
+UB6MIHI3IM9U,ginapialey@protonmail.com,air fryer,kitchenware,1,340.64,20,68.13,0,272.51,05/28/2023,17:26:42,paypal,completed,5,2023
+KDJC7TX544W0,oliviaray@gmail.com,remote control car,toys,1,237.69,10,23.77,0,213.92,05/13/2023,08:29:34,paypal,completed,5,2023
+3KAHUZVNHZ6S,oliviaray@gmail.com,rowing machine,sports_equipment,4,4087.92,0,0.0,0,16351.68,05/29/2023,11:58:07,credit_card,completed,5,2023
+HPKZMLLUN5IO,oliviaray@gmail.com,ladle,kitchenware,1,304.67,25,76.17,0,228.5,05/01/2023,08:10:37,credit_card,completed,5,2023
+3VL8OQ6IOOF0,oliviaray@gmail.com,shoe care kit,footwear,2,95.82,0,0.0,0,191.64,05/13/2023,21:56:11,paypal,completed,5,2023
+32D0MJ3LTTT0,oliviaray@gmail.com,USB flash drive,electronics,5,1961.98,0,0.0,0,9809.91,05/29/2023,18:36:16,paypal,completed,5,2023
+B7NCU7AZNTQG,oliviaray@gmail.com,socks,clothing,1,135.36,0,0.0,0,135.36,05/13/2023,22:27:05,credit_card,completed,5,2023
+FNFMMIUTSQ38,oliviaray@gmail.com,sofa,furniture,1,9242.2,0,0.0,0,9242.2,05/29/2023,11:21:26,stripe,completed,5,2023
+MMPC0YJZ2MT9,halsaintwendyley@gmail.com,humidifier,home_appliances,5,2022.19,5,505.55,0,9605.38,05/01/2023,18:35:28,stripe,completed,5,2023
+A9FCDCIZZH6Z,benlahank@gmail.com,nail file,beauty_products,1,37.57,0,0.0,6.68,44.25,05/07/2023,09:29:47,stripe,completed,5,2023
+9HMOGVBFCGRB,benlahank@gmail.com,toaster accessories,home_appliances,1,1316.52,0,0.0,0,1316.52,05/15/2023,19:31:13,paypal,completed,5,2023
+KO1253HU7KZ3,benlahank@gmail.com,puzzle storage,toys,1,145.27,0,0.0,0,145.27,05/13/2023,02:03:23,paypal,completed,5,2023
+HV3XSVTXXLFY,benlahank@gmail.com,book storage box,books,1,22.8,0,0.0,10.68,33.48,05/24/2023,13:33:34,stripe,completed,5,2023
+W4PZ2KMZ8GCA,benlahank@gmail.com,young adult novel,books,1,48.78,0,0.0,13.79,62.57,05/25/2023,02:04:33,credit_card,completed,5,2023
+79GF69TL419N,benlahank@gmail.com,pet crate,pet_supplies,2,250.66,0,0.0,0,501.33,05/19/2023,07:28:31,credit_card,completed,5,2023
+6VB9L8ZKAZP9,benlahank@gmail.com,exercise bike,sports_equipment,1,2121.7,0,0.0,0,2121.7,05/19/2023,20:51:02,paypal,completed,5,2023
+JVJBNMAQU8L2,benlahank@gmail.com,tweezers,beauty_products,5,130.4,20,130.4,0,521.6,05/23/2023,14:24:37,paypal,completed,5,2023
+5GDET5A8JNPF,benlahank@gmail.com,coffee table books,furniture,1,1801.13,10,180.11,0,1621.02,05/05/2023,08:20:47,stripe,completed,5,2023
+SICIQPTG0PLJ,benlahank@gmail.com,pet food dispenser,pet_supplies,1,184.64,0,0.0,0,184.64,05/09/2023,03:52:20,credit_card,completed,5,2023
+RY1ZWU7LREZZ,zedvandee@gmail.com,hair accessories set,beauty_products,1,108.15,0,0.0,0,108.15,05/13/2023,02:14:10,credit_card,completed,5,2023
+O6CTZT8X2KDW,zedvandee@gmail.com,remote control car,toys,1,236.8,0,0.0,0,236.8,05/16/2023,10:51:34,credit_card,completed,5,2023
+19BDK3NS7U4O,zedvandee@gmail.com,running shoes,footwear,1,173.82,0,0.0,0,173.82,05/22/2023,09:00:28,stripe,completed,5,2023
+BT6TSHCDI9Z6,zedvandee@gmail.com,dumbbell set,sports_equipment,1,5048.37,25,1262.09,0,3786.27,05/12/2023,15:02:54,paypal,completed,5,2023
+CSYWPILHXJA9,zedvandee@gmail.com,pet bed,pet_supplies,1,175.81,5,8.79,0,167.02,05/22/2023,13:26:23,paypal,completed,5,2023
+IE8D3SQBM49F,zedvandee@gmail.com,bed frame accessories,furniture,1,2889.97,25,722.49,0,2167.47,05/31/2023,14:21:28,credit_card,completed,5,2023
+GSY8FAL102OT,zedvandee@gmail.com,baseball bat,sports_equipment,1,2698.85,0,0.0,0,2698.85,05/21/2023,00:23:54,stripe,completed,5,2023
+DMP5M1X2I7N2,liaemma@gmail.com,tablet stylus,electronics,3,624.43,0,0.0,0,1873.28,05/26/2023,21:44:02,stripe,completed,5,2023
+H67INEFSD5PX,quolapeterson@outlook.com,facial cleansing brush,beauty_products,1,124.98,0,0.0,0,124.98,05/27/2023,12:04:36,paypal,completed,5,2023
+SK0IABDU6S5A,oonadedeeley@hotmail.com,spatula,kitchenware,1,20.11,0,0.0,14.7,34.81,05/29/2023,10:06:30,credit_card,completed,5,2023
+1ZOI81DJXJFF,oonadedeeley@hotmail.com,pet brush,pet_supplies,1,148.29,0,0.0,0,148.29,05/18/2023,06:56:48,stripe,completed,5,2023
+7KPLAFIQHA7I,oonadedeeley@hotmail.com,jeans,clothing,1,407.32,25,101.83,0,305.49,05/25/2023,03:57:39,credit_card,completed,5,2023
+MTAJT47PEZ8G,dorawes1@yahoo.com,vacuum cleaner accessories,home_appliances,1,1392.95,20,278.59,0,1114.36,05/25/2023,07:34:08,stripe,completed,5,2023
+DEXUAIEDBL8B,gusdetroy@yahoo.com,pet toothpaste,pet_supplies,1,139.6,0,0.0,0,139.6,05/06/2023,06:57:55,stripe,completed,5,2023
+BXHOPNJPNFYX,gusdetroy@yahoo.com,oven mitts,kitchenware,1,355.32,5,17.77,0,337.56,05/25/2023,13:55:49,credit_card,completed,5,2023
+ZG9Y8S4J6VKF,gusdetroy@yahoo.com,suit,clothing,1,181.39,0,0.0,0,181.39,05/27/2023,18:09:34,paypal,completed,5,2023
+MP4066OE5O13,gusdetroy@yahoo.com,treadmill,sports_equipment,1,5108.31,5,255.42,0,4852.89,05/23/2023,03:00:46,paypal,completed,5,2023
+YVCCDKDNDI7N,kylelaora@yahoo.com,textbook,books,1,108.73,0,0.0,0,108.73,05/20/2023,12:15:12,credit_card,completed,5,2023
+KK7LPSKWQDOF,kylelaora@yahoo.com,musical instrument storage,toys,1,258.27,0,0.0,0,258.27,05/04/2023,06:15:43,stripe,completed,5,2023
+0ALASJ002JEA,wendydeulaley@hotmail.com,office chair cushions,furniture,2,657.74,25,328.87,0,986.61,05/02/2023,00:04:36,credit_card,completed,5,2023
+1NZPXKNCOD82,wendydeulaley@hotmail.com,air purifier,home_appliances,3,3645.75,0,0.0,0,10937.26,05/20/2023,20:56:48,credit_card,completed,5,2023
+X9Z9CRZMVMVQ,zedben@aol.com,pet travel bag,pet_supplies,1,117.76,20,23.55,0,94.21,05/25/2023,05:38:13,stripe,completed,5,2023
+NBUBOI8XZXCE,zedben@aol.com,hoodie,clothing,1,467.07,20,93.41,0,373.66,05/18/2023,15:47:05,stripe,completed,5,2023
+LIG8XGMQLVLJ,zedben@aol.com,slow cooker,home_appliances,1,1962.96,0,0.0,0,1962.96,05/29/2023,08:17:27,credit_card,completed,5,2023
+Z9EUGK525IOT,zedben@aol.com,desk organizers,furniture,1,1730.67,0,0.0,0,1730.67,05/09/2023,12:43:02,stripe,completed,5,2023
+HIF3S5INJNN8,zedben@aol.com,mattress protector,furniture,1,1202.3,0,0.0,0,1202.3,05/12/2023,03:44:20,credit_card,completed,5,2023
+X4O27XL0B2VI,zedben@aol.com,pet travel bag,pet_supplies,1,117.59,0,0.0,0,117.59,05/20/2023,23:53:43,credit_card,completed,5,2023
+4HNGTOY1U08M,natemacisla@icloud.com,self-help book,books,1,135.6,0,0.0,0,135.6,05/09/2023,22:52:53,stripe,completed,5,2023
+JZH6FAW2UYEG,piamcpax@gmail.com,robot building kit,toys,1,154.03,25,38.51,0,115.52,05/24/2023,08:45:44,credit_card,completed,5,2023
+9ZAAR3MH8A1L,piamcpax@gmail.com,storage ottoman,furniture,1,8043.62,25,2010.9,0,6032.71,05/01/2023,08:08:27,paypal,completed,5,2023
+P47KU3R73UXQ,piamcpax@gmail.com,accessories,clothing,1,249.16,0,0.0,0,249.16,05/07/2023,17:07:14,paypal,completed,5,2023
+0EQGWI59HSY9,oladikyle@gmail.com,non-stick cookware,kitchenware,1,357.83,5,17.89,0,339.94,05/05/2023,19:52:26,credit_card,completed,5,2023
+F68WZ9YX43I1,oladikyle@gmail.com,spatula,kitchenware,1,20.23,0,0.0,10.64,30.87,05/19/2023,21:36:40,stripe,completed,5,2023
+YMB2DW17QSZP,oladikyle@gmail.com,sneakers,footwear,1,96.89,0,0.0,0,96.89,05/17/2023,02:28:44,stripe,completed,5,2023
+M483T3OGUGZR,oladikyle@gmail.com,lego set,toys,1,163.11,20,32.62,0,130.48,05/17/2023,20:08:06,paypal,completed,5,2023
+2KLZWME1TW8I,oladikyle@gmail.com,leather jacket,clothing,1,100.41,0,0.0,0,100.41,05/17/2023,14:47:46,stripe,completed,5,2023
+DH9JIXTVKX4J,noahwan@outlook.com,facial cleansing brush,beauty_products,3,124.13,15,55.86,0,316.54,05/06/2023,22:56:54,credit_card,completed,5,2023
+VCPHXZ5YM9NX,noahwan@outlook.com,cookware set,kitchenware,1,191.41,0,0.0,0,191.41,05/14/2023,03:34:55,paypal,completed,5,2023
+KXETN7KLIBAK,gussaintzed@yahoo.com,fitness tracker accessories,sports_equipment,1,1393.14,0,0.0,0,1393.14,05/16/2023,17:56:19,credit_card,completed,5,2023
+5ECTY2EVCEDA,gussaintzed@yahoo.com,air fryer,kitchenware,1,338.5,15,50.78,0,287.73,05/09/2023,01:01:01,paypal,completed,5,2023
+OXPVQIW8XNKC,gussaintzed@yahoo.com,bath bombs,beauty_products,1,149.96,0,0.0,0,149.96,05/13/2023,03:03:20,credit_card,completed,5,2023
+YJRG3AEJAEH7,gussaintzed@yahoo.com,arts and crafts kits,toys,1,322.39,10,32.24,0,290.15,05/02/2023,23:28:07,stripe,completed,5,2023
+D42LYK5Z6WC5,gussaintzed@yahoo.com,work boots,footwear,1,240.24,10,24.02,0,216.21,05/08/2023,07:41:13,paypal,completed,5,2023
+04W8NWSDHS9H,gussaintzed@yahoo.com,blender,home_appliances,1,4705.16,0,0.0,0,4705.16,05/26/2023,21:28:03,paypal,completed,5,2023
+BJ8WRGFCNUTA,gussaintzed@yahoo.com,coffee table books,furniture,1,1792.55,0,0.0,0,1792.55,05/20/2023,18:23:13,stripe,completed,5,2023
+I3BDW9WAMLF9,zednoah@outlook.com,waterproof spray,footwear,4,304.14,20,243.31,0,973.25,05/03/2023,19:02:02,credit_card,completed,5,2023
+NP920YKRA6TJ,zednoah@outlook.com,pet toys set,pet_supplies,1,308.67,0,0.0,0,308.67,05/10/2023,20:02:24,credit_card,completed,5,2023
+ER6952FPOD5Q,zednoah@outlook.com,arts and crafts storage,toys,3,121.05,5,18.16,0,345.0,05/19/2023,22:39:55,credit_card,completed,5,2023
+GETNK7RQ6LQY,zednoah@outlook.com,baking set,kitchenware,1,848.8,0,0.0,0,848.8,05/06/2023,14:07:12,stripe,completed,5,2023
+FATHGAWA5AKH,zednoah@outlook.com,pet grooming kit,pet_supplies,1,177.53,0,0.0,0,177.53,05/25/2023,19:08:58,credit_card,completed,5,2023
+OBHFMTYTG1ER,zednoah@outlook.com,mattress protector,furniture,1,1207.94,0,0.0,0,1207.94,05/20/2023,19:40:16,stripe,completed,5,2023
+LVH36SSZX8OR,zednoah@outlook.com,smart lock,electronics,3,202.18,0,0.0,0,606.54,05/19/2023,08:42:13,stripe,completed,5,2023
+UX1ARV12Q7AO,charlieoeva@gmail.com,hair straightener,beauty_products,1,42.57,0,0.0,7.46,50.03,05/30/2023,18:56:13,stripe,completed,5,2023
+47FPLYUC368L,alexosia@yahoo.com,arts and crafts kits,toys,1,324.93,0,0.0,0,324.93,05/12/2023,11:13:09,credit_card,completed,5,2023
+QJDYH2H1ME90,alexosia@yahoo.com,young adult novel,books,1,48.5,0,0.0,7.11,55.61,05/11/2023,10:14:17,paypal,completed,5,2023
+Z038F0MNRRQF,hoajane@hotmail.com,food processor,home_appliances,1,1289.63,0,0.0,0,1289.63,05/28/2023,11:40:11,stripe,completed,5,2023
+LECK2XYE3313,hoajane@hotmail.com,biography,books,1,86.2,10,8.62,0,77.58,05/06/2023,08:43:47,credit_card,completed,5,2023
+25Q8HTHHBOD0,jayqua@gmail.com,bookends,books,1,67.6,0,0.0,0,67.6,05/03/2023,06:44:04,paypal,completed,5,2023
+Y77161PYIAXU,jayqua@gmail.com,sneakers,footwear,1,96.71,0,0.0,0,96.71,05/21/2023,19:47:18,paypal,completed,5,2023
+8XVWVR8L8P2N,ryandiuma@outlook.com,jeans,clothing,1,406.66,0,0.0,0,406.66,05/18/2023,06:31:25,paypal,completed,5,2023
+VLRLGNX6UB1U,ryandiuma@outlook.com,yoga mat,sports_equipment,1,2286.58,5,114.33,0,2172.25,05/15/2023,16:48:50,stripe,completed,5,2023
+BTOHFXUDEM4K,hugolepaul@gmail.com,action camera,electronics,3,6127.13,0,0.0,0,18381.38,05/18/2023,12:07:34,paypal,completed,5,2023
+34THQH8H1YG6,hugolepaul@gmail.com,dishwasher,home_appliances,1,4269.26,10,426.93,0,3842.34,05/04/2023,02:24:58,paypal,completed,5,2023
+J15SRSBXTS7O,hugolepaul@gmail.com,t-shirt,clothing,5,561.85,0,0.0,0,2809.24,05/29/2023,02:08:08,credit_card,completed,5,2023
+O5KPDHOZ5F10,hugolepaul@gmail.com,pet toothpaste,pet_supplies,1,139.09,0,0.0,0,139.09,05/08/2023,19:51:26,paypal,completed,5,2023
+DIF9Z3BZD30T,hugolepaul@gmail.com,sneakers,footwear,5,98.22,0,0.0,0,491.08,05/01/2023,14:47:36,paypal,completed,5,2023
+UR82KBEICVTR,hugolepaul@gmail.com,reading light,books,1,54.5,0,0.0,0,54.5,05/22/2023,16:06:32,paypal,completed,5,2023
+HLNYADLUWTAP,miadedavid@aol.com,dining chairs,furniture,1,2648.39,10,264.84,0,2383.55,05/21/2023,06:28:34,credit_card,completed,5,2023
+FN2YHCX1AT7F,miadedavid@aol.com,eyebrow pencil,beauty_products,1,7.66,20,1.53,6.98,13.11,05/27/2023,23:25:57,credit_card,completed,5,2023
+LZ8YAP4HV7FY,lukestkai@icloud.com,lego storage,toys,1,256.61,0,0.0,0,256.61,05/17/2023,23:56:58,credit_card,completed,5,2023
+1MAE44E9D3W7,lukestkai@icloud.com,romance novel,books,1,89.67,0,0.0,0,89.67,05/04/2023,20:10:58,paypal,completed,5,2023
+3T9HOU3ZVOI2,laraeve@gmail.com,rice cooker,home_appliances,5,3702.37,0,0.0,0,18511.84,05/08/2023,01:27:36,credit_card,completed,5,2023
+TC0DQ9ZMHYJC,laraeve@gmail.com,pet waste bags,pet_supplies,1,187.07,0,0.0,0,187.07,05/05/2023,05:06:45,paypal,completed,5,2023
+8TG8TP82TOU6,laraeve@gmail.com,exercise bike,sports_equipment,1,2127.86,20,425.57,0,1702.29,05/12/2023,15:43:17,credit_card,completed,5,2023
+EQ6YUKGTRSK8,hanksaintrexsen@hotmail.com,boot shaper,footwear,1,464.84,5,23.24,0,441.6,05/21/2023,22:51:03,paypal,completed,5,2023
+D4LUZ1QR198F,hanksaintrexsen@hotmail.com,action figures,toys,1,220.56,0,0.0,0,220.56,05/24/2023,03:01:50,paypal,completed,5,2023
+PLSQVO5RLCZ8,hanksaintrexsen@hotmail.com,printer,electronics,1,1502.12,0,0.0,0,1502.12,05/09/2023,01:02:41,stripe,completed,5,2023
+80HFKTPI74EG,hanksaintrexsen@hotmail.com,pet food storage container,pet_supplies,2,69.32,0,0.0,0,138.64,05/08/2023,07:56:08,paypal,completed,5,2023
+VAUWX70RSABC,hanksaintrexsen@hotmail.com,baking sheets,kitchenware,1,296.43,15,44.46,0,251.96,05/24/2023,14:09:58,stripe,completed,5,2023
+VB9XI3U1EOU0,hanksaintrexsen@hotmail.com,casual shoes,footwear,1,93.12,0,0.0,0,93.12,05/08/2023,12:12:22,credit_card,completed,5,2023
+BX33RBBYZ2XE,hanksaintrexsen@hotmail.com,hairbrush,beauty_products,1,9.27,15,1.39,9.26,17.14,05/10/2023,03:38:51,stripe,completed,5,2023
+5XYCY2BO6I8H,hanksaintrexsen@hotmail.com,smart doorbell,electronics,5,448.14,25,560.18,0,1680.53,05/03/2023,12:20:19,stripe,completed,5,2023
+JOM9WN0IVB81,quaojack@hotmail.com,bookshelf organizers,books,1,37.67,0,0.0,12.34,50.01,05/10/2023,21:17:21,credit_card,completed,5,2023
+YEN1R7EI3GHQ,liamacalice@outlook.com,blender,kitchenware,1,372.34,0,0.0,0,372.34,05/24/2023,23:18:27,stripe,completed,5,2023
+T578P37FX3EM,liamacalice@outlook.com,food processor,kitchenware,1,774.55,15,116.18,0,658.36,05/07/2023,00:48:59,stripe,completed,5,2023
+TE5DQU68SH9S,ziavanbea@gmail.com,socks,clothing,1,134.84,0,0.0,0,134.84,05/21/2023,19:27:33,paypal,completed,5,2023
+RBZQBH2SWQV2,ziavanbea@gmail.com,skateboard,sports_equipment,1,4708.98,20,941.8,0,3767.19,05/18/2023,16:33:11,stripe,completed,5,2023
+RPTUGB6Z0VB3,ziavanbea@gmail.com,air fryer,kitchenware,1,340.95,20,68.19,0,272.76,05/16/2023,12:50:47,credit_card,completed,5,2023
+A02ES5YYF2H2,ziavanbea@gmail.com,measuring spoons,kitchenware,1,307.63,0,0.0,0,307.63,05/22/2023,12:52:50,stripe,completed,5,2023
+XCSHGIN16WCI,ziavanbea@gmail.com,cotton pads,beauty_products,5,139.45,0,0.0,0,697.27,05/01/2023,06:31:14,paypal,completed,5,2023
+5F4YKL5H6OGP,ianohank@yahoo.com,cookware set,kitchenware,4,191.79,25,191.79,0,575.38,05/08/2023,09:11:20,paypal,completed,5,2023
+3OT0HAFLDKK1,finnyas@yahoo.com,baking set,kitchenware,4,847.37,0,0.0,0,3389.48,05/07/2023,16:47:42,paypal,completed,5,2023
+XKRWH24NG4XD,finnyas@yahoo.com,microwave oven,home_appliances,1,3390.41,0,0.0,0,3390.41,05/19/2023,19:58:54,stripe,completed,5,2023
+Q86Q54Y5O0F6,finnyas@yahoo.com,parka,clothing,1,350.76,20,70.15,0,280.61,05/26/2023,07:43:47,paypal,completed,5,2023
+8EKL08AFB3CG,finnyas@yahoo.com,pet crate accessories,pet_supplies,5,60.11,25,75.14,0,225.42,05/13/2023,17:01:43,credit_card,completed,5,2023
+MAPKCHP5F14P,finnyas@yahoo.com,whisk,kitchenware,1,153.23,0,0.0,0,153.23,05/11/2023,00:51:10,credit_card,completed,5,2023
+HTQM2HFNT4YL,finnyas@yahoo.com,book storage box,books,1,22.7,10,2.27,11.99,32.42,05/22/2023,16:05:01,paypal,completed,5,2023
+SN40VMBGQU98,finnyas@yahoo.com,trampoline accessories,toys,1,13.65,0,0.0,0,13.65,05/23/2023,09:08:31,credit_card,completed,5,2023
+4Z4149TFQGPB,finnyas@yahoo.com,remote control toy storage,toys,1,24.01,25,6.0,11.56,29.56,05/05/2023,21:49:45,stripe,completed,5,2023
+XP0W8MTHK5QM,quamctomson@icloud.com,pet grooming wipes,pet_supplies,1,95.98,20,19.2,0,76.78,05/12/2023,02:20:18,stripe,completed,5,2023
+1R0QFXHTQYS2,quamctomson@icloud.com,children's book,books,1,40.01,25,10.0,11.69,41.69,05/18/2023,03:02:17,paypal,completed,5,2023
+LN05A7FXPYZA,quamctomson@icloud.com,dress shoes,footwear,1,867.93,15,130.19,0,737.74,05/14/2023,07:21:27,paypal,completed,5,2023
+RZ5LWF7M30DD,rexmcgus@gmail.com,children's book,books,1,40.24,0,0.0,5.64,45.88,05/13/2023,04:21:34,paypal,completed,5,2023
+47DX84LKN2DQ,rexmcgus@gmail.com,dishwasher,home_appliances,1,4247.17,0,0.0,0,4247.17,05/13/2023,13:13:31,credit_card,completed,5,2023
+0RVP2WXEY3XP,davidvonjake@yahoo.com,desk organizers,furniture,1,1721.19,0,0.0,0,1721.19,05/08/2023,11:16:00,credit_card,completed,5,2023
+LPEBL9YMXFPP,davidvonjake@yahoo.com,self-help book,books,4,134.19,0,0.0,0,536.74,05/06/2023,12:48:18,paypal,completed,5,2023
+A3C6ZBQYVVPS,quoyas@gmail.com,graphic novel,books,1,64.24,25,16.06,10.27,58.45,05/26/2023,02:52:31,credit_card,completed,5,2023
+G9LK158R6B9G,quoyas@gmail.com,robot building kit,toys,3,154.67,0,0.0,0,464.0,05/06/2023,23:04:30,paypal,completed,5,2023
+R0OVEF2VMUJB,quoyas@gmail.com,microwave oven,home_appliances,1,3378.54,5,168.93,0,3209.62,05/06/2023,00:13:12,credit_card,completed,5,2023
+JI3YEW372L6M,charlielepia@aol.com,baking set,kitchenware,3,846.52,0,0.0,0,2539.55,05/12/2023,12:50:00,stripe,completed,5,2023
+0F2V30F1F2P1,milavanqua@aol.com,shoehorn,footwear,1,415.6,0,0.0,0,415.6,05/06/2023,09:59:42,stripe,completed,5,2023
+KANG3IQ7D0BS,vivdeyas@icloud.com,dining table,furniture,5,6810.34,10,3405.17,0,30646.54,05/19/2023,11:55:24,stripe,completed,5,2023
+XAVM3JI0RXIK,vivdeyas@icloud.com,fitness tracker band,electronics,1,1248.98,0,0.0,0,1248.98,05/03/2023,00:56:54,paypal,completed,5,2023
+7NDM8B3PVSLE,vivdeyas@icloud.com,waterproof spray,footwear,1,302.36,20,60.47,0,241.89,05/09/2023,05:41:14,paypal,completed,5,2023
+SQDYRVP11LQ2,vivdeyas@icloud.com,pet toys,pet_supplies,1,193.48,5,9.67,0,183.81,05/18/2023,20:44:20,credit_card,completed,5,2023
+JGBR7GM389VK,vivdeyas@icloud.com,history book,books,5,127.56,0,0.0,0,637.82,05/23/2023,05:35:39,stripe,completed,5,2023
+6HETTGYZBSYM,vivdeyas@icloud.com,peeler,kitchenware,1,390.1,0,0.0,0,390.1,05/28/2023,09:34:04,credit_card,completed,5,2023
+2LMQ5TTSOA2P,vivdeyas@icloud.com,musical instruments for kids,toys,1,66.75,0,0.0,0,66.75,05/03/2023,00:51:46,paypal,completed,5,2023
+8VU4AEI4HNJT,vivdeyas@icloud.com,sports water bottle,sports_equipment,2,70.18,0,0.0,0,140.36,05/06/2023,08:43:18,paypal,completed,5,2023
+0OEKF5AJNHON,vivdeyas@icloud.com,nail polish set,beauty_products,1,21.74,0,0.0,0,21.74,05/02/2023,09:03:44,paypal,completed,5,2023
+ZYJR5NSVTU3F,faymcpax@yahoo.com,makeup set,beauty_products,5,185.69,0,0.0,0,928.43,05/23/2023,07:13:33,paypal,completed,5,2023
+3QOH5S9P20YY,vicwalt@gmail.com,play kitchen,toys,4,204.79,0,0.0,0,819.15,05/23/2023,23:43:40,paypal,completed,5,2023
+ISGV82NZ45MZ,vicwalt@gmail.com,jumpsuit,clothing,1,523.28,0,0.0,0,523.28,05/18/2023,15:38:08,paypal,completed,5,2023
+DOUALD3IETIY,qualacara@outlook.com,office chair cushions,furniture,1,664.18,0,0.0,0,664.18,05/01/2023,13:40:55,paypal,completed,5,2023
+CJZ89UN8VUVV,qualacara@outlook.com,hand cream,beauty_products,1,51.13,0,0.0,0,51.13,05/19/2023,02:58:34,credit_card,completed,5,2023
+EXBDRSQ4G7FK,miaeva@yahoo.com,oven mitts,kitchenware,4,355.0,20,284.0,0,1136.0,05/23/2023,09:31:39,stripe,completed,5,2023
+QMHIYBOJ92FC,yanalkyleley@outlook.com,pet crate accessories,pet_supplies,1,60.52,0,0.0,0,60.52,05/13/2023,20:45:27,paypal,completed,5,2023
+SW2LC9YCFEZP,rexlerexley@yahoo.com,bath bombs,beauty_products,4,151.5,5,30.3,0,575.71,05/25/2023,11:29:56,credit_card,completed,5,2023
+G1AWS5PMNMKI,rexlerexley@yahoo.com,e-reader,electronics,5,5689.68,0,0.0,0,28448.39,05/12/2023,07:19:23,credit_card,completed,5,2023
+YGE7LTSV66L7,rexlerexley@yahoo.com,tweezers,beauty_products,1,131.11,15,19.67,0,111.45,05/13/2023,07:44:15,paypal,completed,5,2023
+QL8FNFM7HGF9,rexlerexley@yahoo.com,video game console,toys,1,30.15,0,0.0,6.59,36.74,05/06/2023,08:40:59,stripe,completed,5,2023
+Q8B2QIPLZJEG,rexlerexley@yahoo.com,book covers,books,5,55.84,0,0.0,0,279.21,05/06/2023,09:56:40,stripe,completed,5,2023
+1WRNX11HUVOW,rexlerexley@yahoo.com,running shoes,footwear,1,173.1,15,25.96,0,147.13,05/03/2023,06:21:44,credit_card,completed,5,2023
+NVYCEK18SBP0,rexlerexley@yahoo.com,boots,footwear,1,998.06,0,0.0,0,998.06,05/18/2023,15:40:21,paypal,completed,5,2023
+F5BPPPFUXM9B,rexlerexley@yahoo.com,comic book,books,1,91.48,0,0.0,0,91.48,05/27/2023,17:30:36,credit_card,completed,5,2023
+NPMSFHILGFQB,beaelzack@hotmail.com,pet toys,pet_supplies,1,193.24,5,9.66,0,183.58,05/29/2023,13:32:39,paypal,completed,5,2023
+Y50O1FYHBTZA,vicdeviaton@protonmail.com,recliner,furniture,1,8002.8,20,1600.56,0,6402.24,05/10/2023,14:27:43,paypal,completed,5,2023
+0KDO7HV99DPS,hollyvonquinn@hotmail.com,kitchen scale,kitchenware,1,276.09,10,27.61,0,248.48,05/12/2023,19:14:49,stripe,completed,5,2023
+IAT3PME4HWES,hollyvonquinn@hotmail.com,phone case,electronics,3,3051.85,20,1831.11,0,7324.44,05/10/2023,03:32:48,credit_card,completed,5,2023
+X17AJBCF6978,hollyvonquinn@hotmail.com,casual shoes,footwear,1,92.8,0,0.0,0,92.8,05/05/2023,20:59:23,paypal,completed,5,2023
+X3EK7776O42K,hollyvonquinn@hotmail.com,arch support,footwear,3,590.16,0,0.0,0,1770.49,05/31/2023,07:33:45,stripe,completed,5,2023
+XGYFO2NMDGVJ,karamcrita@icloud.com,trench coat,clothing,1,207.56,0,0.0,0,207.56,05/22/2023,07:32:17,paypal,completed,5,2023
+05DM9M126D2A,gabezackley@outlook.com,food processor,home_appliances,5,1300.37,0,0.0,0,6501.86,05/05/2023,09:53:34,stripe,completed,5,2023
+IS6SVVX1EZM8,dylanelalex@outlook.com,wedge sandals,footwear,4,749.25,5,149.85,0,2847.14,05/24/2023,07:48:15,credit_card,completed,5,2023
+7ONZZREAY4IR,dylanelalex@outlook.com,smartwatch band,electronics,1,403.14,0,0.0,0,403.14,05/11/2023,16:02:07,paypal,completed,5,2023
+RCTBHR4DT41T,dylanelalex@outlook.com,skincare set,beauty_products,1,187.56,0,0.0,0,187.56,05/12/2023,09:46:06,paypal,completed,5,2023
+H6SQP23MG1F4,yanlara@outlook.com,balance board,sports_equipment,1,1903.57,5,95.18,0,1808.39,05/21/2023,12:21:34,stripe,completed,5,2023
+27KNXJ98BK1W,yanlara@outlook.com,laptop,electronics,1,1274.28,0,0.0,0,1274.28,05/09/2023,22:27:51,credit_card,completed,5,2023
+Y0X1J7W8MZAZ,yanlara@outlook.com,hoodie,clothing,1,468.81,0,0.0,0,468.81,05/20/2023,23:23:41,stripe,completed,5,2023
+D8VJX22A4AMI,yanlara@outlook.com,wrist wraps,sports_equipment,5,1587.3,25,1984.13,0,5952.39,05/01/2023,16:00:17,credit_card,completed,5,2023
+49K35GHFUAXT,milajackley@gmail.com,sports gloves,sports_equipment,1,1522.46,0,0.0,0,1522.46,05/19/2023,03:55:43,stripe,completed,5,2023
+7RHNV3M2URF4,milajackley@gmail.com,sports sunglasses,sports_equipment,5,632.45,10,316.23,0,2846.04,05/06/2023,17:12:47,credit_card,completed,5,2023
+84CZDCPCVVOC,milajackley@gmail.com,children's book,books,1,40.04,25,10.01,10.97,41.0,05/19/2023,04:05:22,stripe,completed,5,2023
+6Y3CH9XV8S12,waltochris@icloud.com,slippers,footwear,1,484.05,0,0.0,0,484.05,05/05/2023,07:31:56,credit_card,completed,5,2023
+M65T7CO3ZIZV,ziadiolivialey@gmail.com,boot shaper,footwear,5,466.0,0,0.0,0,2330.01,05/05/2023,23:44:41,credit_card,completed,5,2023
+Z3J9CXW959EA,katealjen@yahoo.com,camera tripod,electronics,1,637.42,0,0.0,0,637.42,05/18/2023,22:06:40,stripe,completed,5,2023
+XNFRY25Z1X18,ivymacgrace@hotmail.com,jumpsuit,clothing,1,518.73,0,0.0,0,518.73,05/05/2023,21:19:32,credit_card,completed,5,2023
+7BZR9UVES63N,petermacray@gmail.com,pet crate,pet_supplies,1,252.98,25,63.25,0,189.74,05/20/2023,11:05:22,stripe,completed,5,2023
+23T396IHT8A3,fayestria@hotmail.com,pet odor eliminator,pet_supplies,1,37.77,0,0.0,9.79,47.56,05/25/2023,23:30:47,stripe,completed,5,2023
+KXW1RDWDH2E0,fayestria@hotmail.com,pet collar,pet_supplies,1,64.51,0,0.0,0,64.51,05/16/2023,07:00:46,paypal,completed,5,2023
+NS0JSRLNHKTM,fayestria@hotmail.com,facial cleansing brush,beauty_products,1,125.13,0,0.0,0,125.13,05/01/2023,05:49:42,paypal,completed,5,2023
+07VPZU2ENR9B,weselkara@gmail.com,recliner accessories,furniture,1,1826.27,15,273.94,0,1552.33,05/06/2023,05:05:25,credit_card,completed,5,2023
+T3BB0RM8JAHM,weselkara@gmail.com,pet grooming kit,pet_supplies,3,178.21,0,0.0,0,534.64,05/04/2023,20:58:28,credit_card,completed,5,2023
+VECMBJB0N9ZC,raysaintdora@outlook.com,kitchen scale,kitchenware,1,276.2,0,0.0,0,276.2,05/26/2023,23:43:52,paypal,completed,5,2023
+8IZ6JG59P28H,raysaintdora@outlook.com,sweatshirt,clothing,1,134.88,0,0.0,0,134.88,05/01/2023,19:01:40,paypal,completed,5,2023
+58Z67OCOSVIL,raysaintdora@outlook.com,book covers,books,5,56.06,25,70.07,0,210.22,05/09/2023,22:45:04,stripe,completed,5,2023
+D0BBPVE6J5EZ,raysaintdora@outlook.com,console table,furniture,4,1058.9,15,635.34,0,3600.24,05/25/2023,03:37:54,credit_card,completed,5,2023
+0625IDAJTNK5,raysaintdora@outlook.com,fitness tracker accessories,sports_equipment,1,1385.47,10,138.55,0,1246.92,05/25/2023,13:37:18,stripe,completed,5,2023
+CX41IPUW0MFK,benvonhal@gmail.com,nail polish set,beauty_products,1,21.71,5,1.09,8.43,29.05,05/26/2023,00:11:24,credit_card,completed,5,2023
+1ZN8RH5RUA7Q,kylevic@outlook.com,jeans,clothing,1,410.64,10,41.06,0,369.58,05/18/2023,17:46:39,paypal,completed,5,2023
+BHLE48A99K10,kylevic@outlook.com,hair dryer,beauty_products,1,281.16,0,0.0,0,281.16,05/25/2023,01:30:02,stripe,completed,5,2023
+8LAYALSW27L4,kylevic@outlook.com,e-reader,electronics,1,5643.75,0,0.0,0,5643.75,05/17/2023,10:15:06,credit_card,completed,5,2023
+L2SRTDAUDCXH,kylevic@outlook.com,educational toys,toys,1,76.32,0,0.0,0,76.32,05/24/2023,19:09:59,paypal,completed,5,2023
+7QUW1A6KISIA,kylevic@outlook.com,arts and crafts storage,toys,1,121.45,0,0.0,0,121.45,05/10/2023,05:12:05,paypal,completed,5,2023
+7AR4VHRNF9X7,bobladora@protonmail.com,pet odor eliminator,pet_supplies,1,37.69,0,0.0,14.69,52.38,05/18/2023,11:04:27,credit_card,completed,5,2023
+9UQ129RT3DXD,slyvonpaul@yahoo.com,coffee machine,kitchenware,1,139.14,15,20.87,0,118.27,05/24/2023,10:02:18,paypal,completed,5,2023
+0JQSHC8HTW9A,slyvonpaul@yahoo.com,fitness tracker band,electronics,1,1242.48,0,0.0,0,1242.48,05/21/2023,00:27:05,paypal,completed,5,2023
+AABGR1OGIX72,abevanwill@outlook.com,smart plug,electronics,4,1052.26,0,0.0,0,4209.04,05/23/2023,23:14:37,stripe,completed,5,2023
+LEV1DOJJZB3Z,abevanwill@outlook.com,perfume,beauty_products,1,21.8,0,0.0,13.18,34.98,05/09/2023,09:36:44,stripe,completed,5,2023
+KEQ1OFH08NMK,gracemcben@gmail.com,book display stand,books,2,76.97,20,30.79,0,123.16,05/05/2023,09:01:34,credit_card,completed,5,2023
+AMO3WHOSXMZD,evanvanmialey@yahoo.com,pet training pads,pet_supplies,1,201.65,0,0.0,0,201.65,05/30/2023,15:23:07,stripe,completed,5,2023
+O8NZUDJZKTPY,evanvanmialey@yahoo.com,lego set,toys,1,165.53,15,24.83,0,140.7,05/26/2023,05:01:17,credit_card,completed,5,2023
+UTHVD1SS9YE3,xiadewes@gmail.com,armchair,furniture,3,8865.39,5,1329.81,0,25266.35,05/01/2023,20:07:36,credit_card,completed,5,2023
+EHKOSZSLWHA9,xiadewes@gmail.com,pet carrier accessories,pet_supplies,1,118.79,0,0.0,0,118.79,05/17/2023,20:34:12,paypal,completed,5,2023
+WW1GJAY4U7RZ,xiadewes@gmail.com,sports headband,sports_equipment,1,1025.46,0,0.0,0,1025.46,05/31/2023,03:49:18,credit_card,completed,5,2023
+WEY2YGW104F8,xiadewes@gmail.com,book storage box,books,3,22.83,15,10.27,0,58.22,05/27/2023,04:10:24,credit_card,completed,5,2023
+54D76VOML3VO,rayelriason@outlook.com,smart light bulb,electronics,1,3176.69,0,0.0,0,3176.69,05/02/2023,03:26:18,credit_card,completed,5,2023
+4E3HNAQ1B7XV,rayelriason@outlook.com,t-shirt,clothing,5,565.25,0,0.0,0,2826.25,05/09/2023,21:04:27,credit_card,completed,5,2023
+PG6TJ87M6EK4,rayelriason@outlook.com,bookends,books,1,67.6,20,13.52,0,54.08,05/29/2023,17:50:46,stripe,completed,5,2023
+IA1BK19P2L86,wynfaye@gmail.com,bookmarks,books,1,82.4,10,8.24,0,74.16,05/12/2023,07:03:46,paypal,completed,5,2023
+EHJA3OP9GPT0,callahal@gmail.com,microphone,electronics,1,2838.71,0,0.0,0,2838.71,05/30/2023,18:02:58,paypal,completed,5,2023
+EMG4IFERSSZL,callahal@gmail.com,vacuum cleaner,home_appliances,1,5124.59,0,0.0,0,5124.59,05/19/2023,08:28:45,stripe,completed,5,2023
+92AEAPXYM619,callahal@gmail.com,stuffed animal storage,toys,1,25.69,0,0.0,12.39,38.08,05/11/2023,09:46:41,credit_card,completed,5,2023
+EGMKSN4ODSSA,viclanate@icloud.com,gaming chair,furniture,1,8325.44,0,0.0,0,8325.44,05/05/2023,20:36:44,credit_card,completed,5,2023
+37UFI8REJK7N,olafay@protonmail.com,pet nail clippers,pet_supplies,1,70.72,0,0.0,0,70.72,05/10/2023,14:43:57,credit_card,completed,5,2023
+QYP9EFHO4JZE,olafay@protonmail.com,camera tripod,electronics,1,639.43,0,0.0,0,639.43,05/18/2023,01:02:40,paypal,completed,5,2023
+YYVHKTK2BJQ5,hankgracesen@gmail.com,printer,electronics,1,1493.72,0,0.0,0,1493.72,05/06/2023,14:14:52,paypal,completed,5,2023
+XTVTT3M1UR0R,hankgracesen@gmail.com,pet waste bags,pet_supplies,4,186.81,0,0.0,0,747.25,05/11/2023,09:10:53,paypal,completed,5,2023
+GFPFJPYR0OWF,islaoula@yahoo.com,arch support,footwear,2,588.55,0,0.0,0,1177.09,05/08/2023,08:05:34,credit_card,completed,5,2023
+CU7L8ZKHWF0Y,islaoula@yahoo.com,gaming chair,furniture,1,8396.4,0,0.0,0,8396.4,05/26/2023,23:25:53,credit_card,completed,5,2023
+085KOJCP37G9,islaoula@yahoo.com,wardrobe,furniture,1,2831.57,0,0.0,0,2831.57,05/17/2023,04:32:03,stripe,completed,5,2023
+R770Z9E99WSX,paulkateley@gmail.com,baseball bat,sports_equipment,2,2708.37,0,0.0,0,5416.74,05/27/2023,08:59:11,credit_card,completed,5,2023
+TULTYG6E8NUH,paulkateley@gmail.com,toy boxes,toys,2,107.08,0,0.0,0,214.15,05/05/2023,10:03:26,paypal,completed,5,2023
+03AN9NBOZN9L,tommcgiasen@outlook.com,jump rope,sports_equipment,1,1630.97,5,81.55,0,1549.42,05/08/2023,17:50:21,stripe,completed,5,2023
+MIE3DEV98XAN,amberdejadesen@yahoo.com,coffee machine,kitchenware,1,138.36,0,0.0,0,138.36,05/10/2023,15:44:37,credit_card,completed,5,2023
+F2IR9CVPANGD,amberdejadesen@yahoo.com,shoe organizer,footwear,1,271.18,0,0.0,0,271.18,05/03/2023,12:29:22,stripe,completed,5,2023
+NRGE6BKHJ38T,amberdejadesen@yahoo.com,fitness tracker band,electronics,1,1247.57,15,187.14,0,1060.44,05/29/2023,20:16:26,stripe,completed,5,2023
+CN5Z1RHF0J5L,amberdejadesen@yahoo.com,toaster,home_appliances,1,4074.57,0,0.0,0,4074.57,05/23/2023,20:50:19,credit_card,completed,5,2023
+KI5NRG3N0X9Z,lukerex@gmail.com,gaming mouse,electronics,1,3088.23,10,308.82,0,2779.41,05/26/2023,16:24:11,paypal,completed,5,2023
+IMWKUAO39SM9,lukerex@gmail.com,fitness tracker accessories,sports_equipment,1,1383.18,15,207.48,0,1175.7,05/30/2023,05:02:23,credit_card,completed,5,2023
+8WSDRZEGNITO,vicalned@gmail.com,stove,home_appliances,5,1467.4,0,0.0,0,7337.0,05/16/2023,12:58:23,stripe,completed,5,2023
+4IJI45TF0NJR,vicalned@gmail.com,cookbook,books,1,130.4,0,0.0,0,130.4,05/11/2023,05:59:49,paypal,completed,5,2023
+TTKQKC6VWRQL,vicalned@gmail.com,patio umbrella,furniture,1,3242.81,0,0.0,0,3242.81,05/07/2023,12:56:02,paypal,completed,5,2023
+5J1YENCIL62M,vicalned@gmail.com,educational toy storage,toys,1,28.34,0,0.0,7.07,35.41,05/23/2023,05:20:27,stripe,completed,5,2023
+JNPIKJP02FQP,vicalned@gmail.com,pet food storage container,pet_supplies,2,69.14,0,0.0,0,138.29,05/16/2023,02:34:44,paypal,completed,5,2023
+9HHEHVAOLCP9,vicalned@gmail.com,air conditioner,home_appliances,3,3829.12,0,0.0,0,11487.36,05/01/2023,11:30:26,paypal,completed,5,2023
+6A0FDIS5RS44,vicalned@gmail.com,robot building kit,toys,1,155.49,0,0.0,0,155.49,05/29/2023,12:36:54,stripe,completed,5,2023
+GMU9HL5OSLKV,ivylahal@gmail.com,trench coat,clothing,1,208.95,10,20.89,0,188.05,05/17/2023,04:25:48,paypal,completed,5,2023
+YYVTYF6BXIER,ivylahal@gmail.com,non-stick cookware,kitchenware,5,355.98,0,0.0,0,1779.91,05/24/2023,19:52:41,paypal,completed,5,2023
+HZ19DRM828W9,ivylahal@gmail.com,trampoline,toys,3,335.38,0,0.0,0,1006.13,05/14/2023,04:52:54,paypal,completed,5,2023
+3VZCWY2SUHEM,ivylahal@gmail.com,self-help book,books,5,133.85,20,133.85,0,535.4,05/05/2023,08:00:28,credit_card,completed,5,2023
+XQPK2UQHCVBB,veraluna@gmail.com,coffee table,furniture,1,7000.5,0,0.0,0,7000.5,05/05/2023,00:07:58,paypal,completed,5,2023
+YWFV3DC7PEPA,veraluna@gmail.com,non-stick cookware,kitchenware,1,357.76,0,0.0,0,357.76,05/13/2023,03:33:42,credit_card,completed,5,2023
+EE82W061KWYS,veraluna@gmail.com,microwave oven,home_appliances,5,3403.01,15,2552.26,0,14462.8,05/07/2023,18:39:08,credit_card,completed,5,2023
+VWZOMROX1PH6,veraluna@gmail.com,stand mixer,kitchenware,1,155.29,20,31.06,0,124.24,05/05/2023,06:48:44,stripe,completed,5,2023
+J6SMJ3P78XTP,veraluna@gmail.com,insoles,footwear,1,406.29,0,0.0,0,406.29,05/06/2023,17:39:57,stripe,completed,5,2023
+QTC701ER7Z7B,paulmacuma@icloud.com,wedge sandals,footwear,3,743.31,10,222.99,0,2006.93,05/15/2023,10:18:06,paypal,completed,5,2023
+VO936410ESLX,paulmacuma@icloud.com,makeup remover wipes,beauty_products,3,48.41,20,29.04,0,116.17,05/29/2023,00:22:37,paypal,completed,5,2023
+P8KK46BSLUQM,jackvanfay@gmail.com,office chair,furniture,1,8137.76,0,0.0,0,8137.76,05/13/2023,08:03:04,credit_card,completed,5,2023
+3W78RXV7DAF5,jackvanfay@gmail.com,rice cooker parts,home_appliances,1,669.48,0,0.0,0,669.48,05/10/2023,01:27:25,credit_card,completed,5,2023
+R07A988X3EM1,jackvanfay@gmail.com,pet grooming kit,pet_supplies,2,180.11,5,18.01,0,342.21,05/17/2023,22:08:01,stripe,completed,5,2023
+4LU1KNSFLAN0,jackvanfay@gmail.com,book covers,books,1,55.77,0,0.0,0,55.77,05/16/2023,05:58:24,paypal,completed,5,2023
+NDC4AE78MDFK,jackvanfay@gmail.com,hair straightener,beauty_products,4,42.35,0,0.0,0,169.41,05/19/2023,23:10:11,credit_card,completed,5,2023
+GHAUU4NMDW9M,fayeowenson@outlook.com,smart thermostat,electronics,1,403.7,0,0.0,0,403.7,05/09/2023,19:34:32,credit_card,completed,5,2023
+A0SX9ZTQKKX6,fayeowenson@outlook.com,microphone,electronics,1,2851.27,0,0.0,0,2851.27,05/20/2023,03:16:56,credit_card,completed,5,2023
+AFCZN04M263X,fayeowenson@outlook.com,sofa,furniture,1,9258.63,0,0.0,0,9258.63,05/07/2023,00:01:01,paypal,completed,5,2023
+8784IWHQVWJE,hugosaintoraley@gmail.com,skirt,clothing,1,60.52,0,0.0,0,60.52,05/20/2023,13:16:07,stripe,completed,5,2023
+GCHKOT83OFQ9,bellalevialey@aol.com,running shoes,footwear,2,173.03,0,0.0,0,346.06,05/03/2023,15:26:57,paypal,completed,5,2023
+VZTINQI4CO0N,bellalevialey@aol.com,poetry collection,books,1,88.21,0,0.0,0,88.21,05/04/2023,23:54:42,stripe,completed,5,2023
+ANFUWYMUCIJF,laravonjay@hotmail.com,book display stand,books,1,77.01,15,11.55,0,65.46,05/04/2023,23:43:46,credit_card,completed,5,2023
+BI7IEJL1N86D,gabexan@outlook.com,food processor parts,home_appliances,1,1272.66,10,127.27,0,1145.39,05/12/2023,08:53:36,paypal,completed,5,2023
+LT5627TUZVOA,gabexan@outlook.com,bookends,books,1,67.09,0,0.0,0,67.09,05/23/2023,03:28:36,stripe,completed,5,2023
+72MNHWBRMDJH,gabexan@outlook.com,slow cooker parts,home_appliances,3,1146.15,0,0.0,0,3438.44,05/10/2023,19:01:03,stripe,completed,5,2023
+YY4C8LRNN5UC,xiaxander@hotmail.com,bar stools,furniture,1,1331.09,0,0.0,0,1331.09,05/07/2023,10:33:02,credit_card,completed,5,2023
+7SN9ADWSJIEN,xiaxander@hotmail.com,book storage box,books,1,22.89,5,1.14,11.57,33.32,05/20/2023,22:26:36,stripe,completed,5,2023
+B65QIYBJG35C,bellaliam@hotmail.com,waterproof spray,footwear,1,306.61,0,0.0,0,306.61,05/13/2023,23:46:49,paypal,completed,5,2023
+7QS8I6RRZIHH,bellaliam@hotmail.com,educational toys,toys,3,76.25,0,0.0,0,228.75,05/01/2023,21:15:57,stripe,completed,5,2023
+FEFXZPJLSQ09,bellaliam@hotmail.com,pet feeding mat,pet_supplies,4,142.77,20,114.22,0,456.88,05/22/2023,18:11:24,stripe,completed,5,2023
+2YI8L4W0PSGG,bellaliam@hotmail.com,shoe bags,footwear,1,430.69,0,0.0,0,430.69,05/27/2023,20:06:38,credit_card,completed,5,2023
+STKRP0FYWHHR,hoamacgrace@gmail.com,robot vacuum accessories,electronics,1,1785.12,0,0.0,0,1785.12,05/22/2023,08:53:46,credit_card,completed,5,2023
+5RQU76J9QQBS,hoamacgrace@gmail.com,golf clubs,sports_equipment,1,2255.82,0,0.0,0,2255.82,05/19/2023,21:54:43,paypal,completed,5,2023
+8UZEL36UK68E,hoamacgrace@gmail.com,trampoline,toys,1,336.9,10,33.69,0,303.21,05/24/2023,16:23:48,credit_card,completed,5,2023
