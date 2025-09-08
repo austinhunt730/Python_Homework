@@ -4,30 +4,29 @@ import pandas as pd
 import psycopg2
 
 # ---- DB config via env vars ----
-# DB_HOST = os.getenv("DB_HOST", "localhost")
-# DB_NAME = os.getenv("DB_NAME", "ecommerce")
-# DB_USER = os.getenv("DB_USER", "ecommerce_user")
-# DB_PASSWORD = os.getenv("DB_PASSWORD", "temp_pw")
-# DB_PORT = int(os.getenv("DB_PORT", "5432"))
+DB_HOST = os.getenv("DB_HOST", "localhost")
+DB_NAME = os.getenv("DB_NAME", "ecommerce")
+DB_USER = os.getenv("DB_USER", "ecommerce_user")
+DB_PASSWORD = os.getenv("DB_PASSWORD", "temp_pw")
+DB_PORT = int(os.getenv("DB_PORT", "5432"))
 
-# conn = psycopg2.connect(host=DB_HOST, dbname=DB_NAME, user=DB_USER, password=DB_PASSWORD, port=DB_PORT)
+conn = psycopg2.connect(host=DB_HOST, dbname=DB_NAME, user=DB_USER, password=DB_PASSWORD, port=DB_PORT)
 
-# query = """
-# SELECT * FROM users;
-# """
+query = """
+SELECT * FROM users;
+"""
 
-# users_df = pd.read_sql_query(query, conn)
-# print("Users DataFrame:")
-# print(users_df.he
+users_df = pd.read_sql_query(query, conn)
+print("Users DataFrame:")
+print(users_df.head())
 
 ## TODO Replace with read from database once all user data is imported
-df = pd.read_csv('data/user_data/user_data_2024_12.csv')
-print(df.head())
+
 
 ## QUESTIONS
 
 # User type counts
-print(df['user_type'].value_counts())
+# print(df['user_type'].value_counts())
 
 # Top 10 spenders
 
