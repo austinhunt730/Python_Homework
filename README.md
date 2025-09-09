@@ -48,4 +48,8 @@ MODEL_RESULTS.md          # ML performance summary
 Users: 6528
 Purchases: 10234
 
+## Work Done
+Austin: Data Analysis
+- *Note: I used the same user when working in the vm as Hayden, and didn't think about it much. This resulted in me inadvertently using her github credentials to commit all my changes. Whoops*
+
 Happy building!
