@@ -51,5 +51,6 @@ Purchases: 10234
 ## Work Done
 Austin: Data Analysis
 - *Note: I used the same user when working in the vm as Hayden, and didn't think about it much. This resulted in me inadvertently using her github credentials to commit all my changes. Whoops*
+<img width="468" height="330" alt="image" src="https://github.com/user-attachments/assets/97ada5b1-c87f-47a3-aa76-24c9ca65c176" />
 
 Happy building!
