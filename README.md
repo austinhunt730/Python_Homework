@@ -44,4 +44,8 @@ MODEL_RESULTS.md          # ML performance summary
 - Use small slices of data while prototyping.
 - Commit early, commit often.
 
+## Row Counts
+Users: 6528
+Purchases: 10234
+
 Happy building!
